@@ -8,6 +8,7 @@ public class Main {
 	/* 	
 	 * ######################## Problem D ########################
 	 * Status: Time limit exceeded on test 2 
+	 * Problem Link: https://vjudge.net/problem/Gym-101498B
 	 */
 	public static boolean searchString(String Input, char C) {
 		boolean foundFlag = false;
@@ -65,6 +66,7 @@ public class Main {
 	/* 	
 	 * ######################## Problem C ########################
 	 * Status: Wrong Answer on test 5
+	 * Problem Link: https://vjudge.net/problem/CodeForces-230B
 	 */
 
 	
@@ -88,6 +90,7 @@ public class Main {
 	/* 	
 	 * ######################## Problem B ########################
 	 * Status: Accepted
+	 * Problem Link: https://vjudge.net/problem/AtCoder-abc143_c
 	 */
 	
 	
@@ -105,6 +108,7 @@ public class Main {
 	/* 	
 	 * ######################## Problem A ########################
 	 * Status: Accepted
+	 * Problem Link: https://vjudge.net/problem/CodeForces-745A
 	 */
 	
 //	public static int cyclicShift(String in) {
