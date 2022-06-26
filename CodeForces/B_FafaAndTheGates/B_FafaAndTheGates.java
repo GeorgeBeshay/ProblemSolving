@@ -1,4 +1,9 @@
-package CodeForces.B.FafaAndTheGates;
+/*
+ * Problem Link: 	https://codeforces.com/problemset/problem/935/B
+ * Status: 				Accepted.
+ */
+
+package CodeForces.B_FafaAndTheGates;
 
 import java.util.*;
 import java.awt.Point;
