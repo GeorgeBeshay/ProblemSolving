@@ -4,7 +4,7 @@ import java.util.*;
 
 /*
  * Problem Link: 	https://codeforces.com/problemset/problem/732/B
- * Status: 				
+ * Status: 		Accepted		
  */
 
 public class B_Cormen_TheBestFriendOfAMan {
