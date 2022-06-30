@@ -14,6 +14,7 @@
 - ✅ *Problem 706 B Interesting Drink* - [Problem Link](https://codeforces.com/problemset/problem/706/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P706B_B_InterestingDrink)
 - ✅ *Problem 732 B Cormen The Best Friend of A Man* - [Problem Link](https://codeforces.com/problemset/problem/732/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P732B_B_Cormen_TheBestFriendOfAMan)
 - ✅ *Problem 935 B Fafa And The Gates* - [Problem Link](https://codeforces.com/problemset/problem/935/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P935B_B_FafaAndTheGates)
+- ✅ *Problem 363 B Fence* - [Problem Link](https://codeforces.com/problemset/problem/363/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P363B_B_Fence)
 ***
 ### *LeetCode*
 - ✅ *Problem 63 Unique Paths II* - [Problem Link](https://leetcode.com/problems/unique-paths-ii/) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/LeetCode/_20_5_22)
