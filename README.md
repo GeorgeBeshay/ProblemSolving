@@ -17,6 +17,7 @@
 - ✅ *Problem 363 B Fence* - [Problem Link](https://codeforces.com/problemset/problem/363/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P363B_Fence)
 - ✅ *Problem 227 B Effective Approach* - [Problem Link](https://codeforces.com/problemset/problem/227/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P227B_EffectiveApproach)
 - ✅ *Problem 242 B Big Segment* - [Problem Link](https://codeforces.com/problemset/problem/242/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P242B_BigSegment)
+- ✅ *Problem 160 B Unlucky Ticket* - [Problem Link](https://codeforces.com/problemset/problem/160/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P160B_UnluckyTicket)
 ***
 ### *LeetCode*
 - ✅ *Problem 63 Unique Paths II* - [Problem Link](https://leetcode.com/problems/unique-paths-ii/) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/LeetCode/_20_5_22)
