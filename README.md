@@ -19,6 +19,7 @@
 - ✅ *Problem 242 B Big Segment* - [Problem Link](https://codeforces.com/problemset/problem/242/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P242B_BigSegment)
 - ✅ *Problem 160 B Unlucky Ticket* - [Problem Link](https://codeforces.com/problemset/problem/160/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P160B_UnluckyTicket)
 - ✅ *Problem 686 B Little Robber Girls' Zoo* - [Problem Link](https://codeforces.com/contest/686/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P686B_LittleRobberGirlsZoo)
+- ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 ***
 ### *LeetCode*
 - ✅ *Problem 63 Unique Paths II* - [Problem Link](https://leetcode.com/problems/unique-paths-ii/) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/LeetCode/_20_5_22)
