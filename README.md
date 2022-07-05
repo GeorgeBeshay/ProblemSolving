@@ -20,6 +20,7 @@
 - ✅ *Problem 160 B Unlucky Ticket* - [Problem Link](https://codeforces.com/problemset/problem/160/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P160B_UnluckyTicket)
 - ✅ *Problem 686 B Little Robber Girls' Zoo* - [Problem Link](https://codeforces.com/contest/686/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P686B_LittleRobberGirlsZoo)
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
+- ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 ***
 ### *LeetCode*
 - ✅ *Problem 63 Unique Paths II* - [Problem Link](https://leetcode.com/problems/unique-paths-ii/) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/LeetCode/_20_5_22)
