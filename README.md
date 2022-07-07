@@ -39,6 +39,7 @@
 - ✅ *Problem 32 B Borze* - [Problem Link](https://codeforces.com/problemset/problem/32/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P32B_Borze)
 - ✅ *Problem 978 B File Name* - [Problem Link](https://codeforces.com/problemset/problem/978/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P978B_FileName)
 - ✅ *Problem 746 B Decoding* - [Problem Link](https://codeforces.com/problemset/problem/746/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P746B_Decoding)
+- ✅ *Problem 747 B Mammoth's Genome Decoding* - [Problem Link](https://codeforces.com/problemset/problem/747/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P747B_MammothsGenomeDecoding)
 ***
 
 ### <p align="center"> Other </p>
