@@ -32,7 +32,7 @@
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 
 ### <p align="center"> String 40 Problems </p>
-<p align="center"> 08 Out of 40 Completed 🏗️</p>
+<p align="center"> 09 Out of 40 Completed 🏗️</p>
  
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 - ✅ *Problem 831 B Keyboard Layouts* - [Problem Link](https://codeforces.com/problemset/problem/831/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P831B_KeyboardLayouts)
@@ -42,6 +42,7 @@
 - ✅ *Problem 747 B Mammoth's Genome Decoding* - [Problem Link](https://codeforces.com/problemset/problem/747/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P747B_MammothsGenomeDecoding)
 - ✅ *Problem 977 B Two Gram* - [Problem Link](https://codeforces.com/problemset/problem/977/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P977B_TwoGram)
 - ✅ *Problem 918 B Radio Station* - [Problem Link](https://codeforces.com/problemset/problem/918/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P918B_RadioStation)
+- ✅ *Problem * - [Problem Link](https://codeforces.com/problemset/problem/999/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P999B_ReversingEncryption)
 ***
 
 ### <p align="center"> Other </p>
