@@ -42,7 +42,7 @@
 - ✅ *Problem 747 B Mammoth's Genome Decoding* - [Problem Link](https://codeforces.com/problemset/problem/747/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P747B_MammothsGenomeDecoding)
 - ✅ *Problem 977 B Two Gram* - [Problem Link](https://codeforces.com/problemset/problem/977/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P977B_TwoGram)
 - ✅ *Problem 918 B Radio Station* - [Problem Link](https://codeforces.com/problemset/problem/918/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P918B_RadioStation)
-- ✅ *Problem * - [Problem Link](https://codeforces.com/problemset/problem/999/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P999B_ReversingEncryption)
+- ✅ *Problem 999 B Reversing Encryption* - [Problem Link](https://codeforces.com/problemset/problem/999/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P999B_ReversingEncryption)
 ***
 
 ### <p align="center"> Other </p>
