@@ -32,7 +32,7 @@
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 
 ### <p align="center"> String 40 Problems </p>
-<p align="center"> 12 Out of 40 Completed 🏗️</p>
+<p align="center"> 13 Out of 40 Completed 🏗️</p>
  
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 - ✅ *Problem 831 B Keyboard Layouts* - [Problem Link](https://codeforces.com/problemset/problem/831/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P831B_KeyboardLayouts)
@@ -46,6 +46,7 @@
 - ✅ *Problem 1005 B Delete From The Left* - [Problem Link](https://codeforces.com/problemset/problem/1005/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P1005B_DeleteFromTheLeft)
 - ✅ *Problem 801 B Valued Keys* - [Problem Link](https://codeforces.com/problemset/problem/801/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P801B_ValuedKeys)
 - ✅ *Problem 499 B Lecture* - [Problem Link](https://codeforces.com/problemset/problem/499/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P499B_Lecture)
+- ✅ *Problem 672 B Different Is Good* - [Problem Link](https://codeforces.com/problemset/problem/672/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P672B_DifferentIsGood)
 ***
 
 ### <p align="center"> Other </p>
