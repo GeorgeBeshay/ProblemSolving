@@ -32,7 +32,7 @@
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 
 ### <p align="center"> String 40 Problems </p>
-<p align="center"> 10 Out of 40 Completed 🏗️</p>
+<p align="center"> 11 Out of 40 Completed 🏗️</p>
  
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 - ✅ *Problem 831 B Keyboard Layouts* - [Problem Link](https://codeforces.com/problemset/problem/831/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P831B_KeyboardLayouts)
@@ -44,6 +44,7 @@
 - ✅ *Problem 918 B Radio Station* - [Problem Link](https://codeforces.com/problemset/problem/918/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P918B_RadioStation)
 - ✅ *Problem 999 B Reversing Encryption* - [Problem Link](https://codeforces.com/problemset/problem/999/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P999B_ReversingEncryption)
 - ✅ *Problem 1005 B Delete From The Left* - [Problem Link](https://codeforces.com/problemset/problem/1005/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P1005B_DeleteFromTheLeft)
+- ✅ *Problem 801 B Valued Keys* - [Problem Link](https://codeforces.com/problemset/problem/801/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P801B_ValuedKeys)
 ***
 
 ### <p align="center"> Other </p>
