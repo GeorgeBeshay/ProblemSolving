@@ -49,7 +49,7 @@
 - ✅ *Problem 672 B Different Is Good* - [Problem Link](https://codeforces.com/problemset/problem/672/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P672B_DifferentIsGood)
 - ✅ *Problem 688 B Lovely Palindromes* - [Problem Link](https://codeforces.com/problemset/problem/688/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P688B_LovelyPalindromes)
 - ✅ *Problem 284 B Cows And Poker Game* - [Problem Link](https://codeforces.com/problemset/problem/284/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P248B_CowsAndPokerGame)
-- ✅ *Problem * - [Problem Link](https://codeforces.com/problemset/problem/669/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P669B_LittleArtemAndGrasshopper)
+- ✅ *Problem 669 B Little Artem And Grasshopper* - [Problem Link](https://codeforces.com/problemset/problem/669/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P669B_LittleArtemAndGrasshopper)
 ***
 
 ### <p align="center"> Other </p>
