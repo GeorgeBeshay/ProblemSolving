@@ -32,7 +32,7 @@
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 
 ### <p align="center"> String 40 Problems </p>
-<p align="center"> 17 Out of 40 Completed 🏗️</p>
+<p align="center"> 18 Out of 40 Completed 🏗️</p>
  
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 - ✅ *Problem 831 B Keyboard Layouts* - [Problem Link](https://codeforces.com/problemset/problem/831/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P831B_KeyboardLayouts)
@@ -51,6 +51,7 @@
 - ✅ *Problem 284 B Cows And Poker Game* - [Problem Link](https://codeforces.com/problemset/problem/284/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P248B_CowsAndPokerGame)
 - ✅ *Problem 669 B Little Artem And Grasshopper* - [Problem Link](https://codeforces.com/problemset/problem/669/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P669B_LittleArtemAndGrasshopper)
 - ✅ *Problem 822 B Crossword Solving* - [Problem Link](https://codeforces.com/problemset/problem/822/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P822B_CrosswordSolving)
+- ✅ *Problem 805 B 3-Palindrome* - [Problem Link](https://codeforces.com/problemset/problem/805/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P805B_3Palindrome)
 ***
 
 ### <p align="center"> Other </p>
