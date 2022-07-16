@@ -32,7 +32,7 @@
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 
 ### <p align="center"> String 40 Problems </p>
-<p align="center"> 22 Out of 40 Completed 🏗️</p>
+<p align="center"> 23 Out of 40 Completed 🏗️</p>
  
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 - ✅ *Problem 831 B Keyboard Layouts* - [Problem Link](https://codeforces.com/problemset/problem/831/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P831B_KeyboardLayouts)
@@ -56,6 +56,7 @@
 - ✅ *Problem 501 B Misha And Changing Handles* - [Problem Link](https://codeforces.com/problemset/problem/501/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P501B_MishaAndChangingHandles)
 - ✅ *Problem 723 B Text Document Analysis* - [Problem Link](https://codeforces.com/problemset/problem/723/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P723B_TextDocumentAnalysis)
 - ✅ *Problem 765 B Code Obfuscation* - [Problem Link](https://codeforces.com/problemset/problem/765/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P765B_CodeObfuscation)
+- ✅ *Problem 313 B Ilya And Queries* - [Problem Link](https://codeforces.com/problemset/problem/313/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P313B_llyaAndQueries)
 ***
 
 ### <p align="center"> Other </p>
