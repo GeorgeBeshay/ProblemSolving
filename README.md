@@ -32,7 +32,7 @@
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 
 ### <p align="center"> String 40 Problems </p>
-<p align="center"> 31 Out of 40 Completed 🏗️</p>
+<p align="center"> 32 Out of 40 Completed 🏗️</p>
  
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 - ✅ *Problem 831 B Keyboard Layouts* - [Problem Link](https://codeforces.com/problemset/problem/831/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P831B_KeyboardLayouts)
@@ -65,6 +65,7 @@
 - ✅ *Problem 758 B Blown Garland* - [Problem Link](https://codeforces.com/contest/758/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P758B_BlownGarland)
 - ✅ *Problem 116 B Little Pigs And Wolves* - [Problem Link](https://codeforces.com/problemset/problem/116/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P116B_LittlePigsAndWolves)
 - ✅ *Problem 110 B Lucky String* - [Problem Link](https://codeforces.com/problemset/problem/110/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P110B_LuckyString)
+- ✅ *Problem 984 B Minesweeper* - [Problem Link](https://codeforces.com/contest/984/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P984B_Minesweeper)
 ***
 
 ### <p align="center"> Other </p>
