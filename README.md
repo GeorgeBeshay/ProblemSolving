@@ -72,6 +72,10 @@
 - ✅ *Problem 90 B African Crossword* - [Problem Link](https://codeforces.com/problemset/problem/90/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P90B_AfricanCrossword)
 - ✅ *Problem 43 B Letter* - [Problem Link](https://codeforces.com/problemset/problem/43/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P43B_Letter)
 - ✅ *Problem 25 B Phone Numbers* - [Problem Link](https://codeforces.com/problemset/problem/25/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P25B_PhoneNumbers)
+
+### <p align="center"> Mathematics 25 Problems </p>
+<p align="center"> 00 Out of 25 Completed ✅</p>
+
 ***
 
 ### <p align="center"> Other </p>
