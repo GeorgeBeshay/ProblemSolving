@@ -31,7 +31,7 @@
 - ✅ *Problem 686 B Little Robber Girls' Zoo* - [Problem Link](https://codeforces.com/contest/686/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P686B_LittleRobberGirlsZoo)
 - ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P950B_InterceptedMessage)
 
-### <p align="center"> String 40 Problems </p>
+### <p align="center"> String 38 Problems </p>
 <p align="center"> 38 Out of 38 Completed ✅</p>
  
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
