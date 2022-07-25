@@ -74,7 +74,7 @@
 - ✅ *Problem 25 B Phone Numbers* - [Problem Link](https://codeforces.com/problemset/problem/25/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P25B_PhoneNumbers)
 
 ### <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 00 Out of 25 Completed 🏗️</p>
+<p align="center"> 01 Out of 25 Completed 🏗️</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P734B_AntonAndDigits)
 
