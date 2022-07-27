@@ -74,13 +74,14 @@
 - ✅ *Problem 25 B Phone Numbers* - [Problem Link](https://codeforces.com/problemset/problem/25/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P25B_PhoneNumbers)
 
 ### <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 05 Out of 25 Completed 🏗️</p>
+<p align="center"> 06 Out of 25 Completed 🏗️</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P734B_AntonAndDigits)
 - ✅ *Problem 200 B Drinks* - [Problem Link](https://codeforces.com/problemset/problem/200/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P200B_Drinks)
 - ✅ *Problem 265 B Roadside Trees (Simplified Edition)* - [Problem Link](https://codeforces.com/problemset/problem/265/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P265B_RoadsideTreesSimplifiedEdition)
 - ✅ *Problem 268 B Buttons* - [Problem Link](https://codeforces.com/problemset/problem/268/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P268B_Buttons)
 - ✅ *Problem 447 B DZY Loves Strings* - [Problem Link](https://codeforces.com/problemset/problem/447/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P447B_DZYLovesStrings)
+- ✅ *Problem 670 B Game Of Robots* - [Problem Link](https://codeforces.com/problemset/problem/670/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P670B_GameOfRobots)
 
 ***
 
