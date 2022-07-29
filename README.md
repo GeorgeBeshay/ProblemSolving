@@ -74,7 +74,7 @@
 - ✅ *Problem 25 B Phone Numbers* - [Problem Link](https://codeforces.com/problemset/problem/25/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P25B_PhoneNumbers)
 
 ### <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 07 Out of 25 Completed 🏗️</p>
+<p align="center"> 08 Out of 25 Completed 🏗️</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P734B_AntonAndDigits)
 - ✅ *Problem 200 B Drinks* - [Problem Link](https://codeforces.com/problemset/problem/200/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P200B_Drinks)
@@ -83,6 +83,7 @@
 - ✅ *Problem 447 B DZY Loves Strings* - [Problem Link](https://codeforces.com/problemset/problem/447/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P447B_DZYLovesStrings)
 - ✅ *Problem 670 B Game Of Robots* - [Problem Link](https://codeforces.com/problemset/problem/670/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P670B_GameOfRobots)
 - ✅ *Problem 157 B Trace* - [Problem Link](https://codeforces.com/problemset/problem/157/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P157B_Trace)
+- ✅ *Problem 766 B Mahmoud And A Triangle* - [Problem Link](https://codeforces.com/problemset/problem/766/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P766B_MahmoudAndATriangle)
 
 ***
 
