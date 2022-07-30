@@ -6,17 +6,17 @@
 ## <p align="center"> Data Structures 10 Problems </p>
 <p align="center"> 10 Out of 10 Completed ✅</p>
 
-- ✅ *Problem 1668 A Direction Change* - [Problem Link](https://codeforces.com/problemset/problem/1668/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P1668A_DirectionChange)
-- ✅ *Problem 368 B Sereja And Suffixes* - [Problem Link](https://codeforces.com/contest/368/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P368B_SerejaAndSuffixes)
-- ✅ *Problem 706 B Interesting Drink* - [Problem Link](https://codeforces.com/problemset/problem/706/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P706B_InterestingDrink)
-- ✅ *Problem 732 B Cormen The Best Friend of A Man* - [Problem Link](https://codeforces.com/problemset/problem/732/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P732B_CormenTheBestFriendOfAMan)
-- ✅ *Problem 935 B Fafa And The Gates* - [Problem Link](https://codeforces.com/problemset/problem/935/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P935B_FafaAndTheGates)
-- ✅ *Problem 363 B Fence* - [Problem Link](https://codeforces.com/problemset/problem/363/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P363B_Fence)
-- ✅ *Problem 227 B Effective Approach* - [Problem Link](https://codeforces.com/problemset/problem/227/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P227B_EffectiveApproach)
-- ✅ *Problem 242 B Big Segment* - [Problem Link](https://codeforces.com/problemset/problem/242/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P242B_BigSegment)
-- ✅ *Problem 160 B Unlucky Ticket* - [Problem Link](https://codeforces.com/problemset/problem/160/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P160B_UnluckyTicket)
-- ✅ *Problem 686 B Little Robber Girls' Zoo* - [Problem Link](https://codeforces.com/contest/686/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P686B_LittleRobberGirlsZoo)
-- ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P950B_InterceptedMessage)
+- ✅ *Problem 1668 A Direction Change* - [Problem Link](https://codeforces.com/problemset/problem/1668/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P1668A_DirectionChange.java)
+- ✅ *Problem 368 B Sereja And Suffixes* - [Problem Link](https://codeforces.com/contest/368/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P368B_SerejaAndSuffixes.java)
+- ✅ *Problem 706 B Interesting Drink* - [Problem Link](https://codeforces.com/problemset/problem/706/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P706B_InterestingDrink.java)
+- ✅ *Problem 732 B Cormen The Best Friend of A Man* - [Problem Link](https://codeforces.com/problemset/problem/732/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P732B_CormenTheBestFriendOfAMan.java)
+- ✅ *Problem 935 B Fafa And The Gates* - [Problem Link](https://codeforces.com/problemset/problem/935/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P935B_FafaAndTheGates.java)
+- ✅ *Problem 363 B Fence* - [Problem Link](https://codeforces.com/problemset/problem/363/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P363B_Fence.java)
+- ✅ *Problem 227 B Effective Approach* - [Problem Link](https://codeforces.com/problemset/problem/227/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P227B_EffectiveApproach.java)
+- ✅ *Problem 242 B Big Segment* - [Problem Link](https://codeforces.com/problemset/problem/242/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P242B_BigSegment.java)
+- ✅ *Problem 160 B Unlucky Ticket* - [Problem Link](https://codeforces.com/problemset/problem/160/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P160B_UnluckyTicket.java)
+- ✅ *Problem 686 B Little Robber Girls' Zoo* - [Problem Link](https://codeforces.com/contest/686/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P686B_LittleRobberGirlsZoo.java)
+- ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P950B_InterceptedMessage.java)
 ***
 
 ## <p align="center"> String 38 Problems </p>
