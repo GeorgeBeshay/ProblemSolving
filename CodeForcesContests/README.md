@@ -1,0 +1,6 @@
+# <p align="center"> CodeForces Contests </p>
+- [Round 805 - Div 3](https://codeforces.com/contest/1702): <br>
+[PA](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R805_D3/PA_RoundDownThePrice.java) ✅ - [PB](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R805_D3/PB_PolycarpWritesAStringFromMemory.java) ✅ - [PC](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R805_D3/PC_TrainAndQueries.java) ✅ - [PD](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R805_D3/PD_NotACheapString.java) ✅
+- [Round 806 - Div 4](https://codeforces.com/contest/1703): <br>
+[PA](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R806_D4/PA_YESorYES.java) ✅ - [PB](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R806_D4/PB_ICPCBalloons.java) ✅ - [PC](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R806_D4/PC_Cypher.java) ✅ - [PD](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R806_D4/PD_DoubleStrings.java) ✅
+***
