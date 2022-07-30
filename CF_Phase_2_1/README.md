@@ -5,6 +5,7 @@
 
 ## <p align="center"> Data Structures 10 Problems </p>
 <p align="center"> 10 Out of 10 Completed ✅</p>
+
 - ✅ *Problem 1668 A Direction Change* - [Problem Link](https://codeforces.com/problemset/problem/1668/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P1668A_DirectionChange)
 - ✅ *Problem 368 B Sereja And Suffixes* - [Problem Link](https://codeforces.com/contest/368/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P368B_SerejaAndSuffixes)
 - ✅ *Problem 706 B Interesting Drink* - [Problem Link](https://codeforces.com/problemset/problem/706/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P706B_InterestingDrink)
@@ -20,6 +21,7 @@
 
 ## <p align="center"> String 38 Problems </p>
 <p align="center"> 38 Out of 38 Completed ✅</p>
+
 - ✅ *Problem 266 B Queue At The School* - [Problem Link](https://codeforces.com/problemset/problem/266/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P266B_QueueAtTheSchool)
 - ✅ *Problem 831 B Keyboard Layouts* - [Problem Link](https://codeforces.com/problemset/problem/831/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P831B_KeyboardLayouts)
 - ✅ *Problem 32 B Borze* - [Problem Link](https://codeforces.com/problemset/problem/32/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/P32B_Borze)
