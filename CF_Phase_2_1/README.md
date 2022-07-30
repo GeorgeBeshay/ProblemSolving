@@ -12,11 +12,11 @@
 - ✅ *Problem 732 B Cormen The Best Friend of A Man* - [Problem Link](https://codeforces.com/problemset/problem/732/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P732B_CormenTheBestFriendOfAMan.java)
 - ✅ *Problem 935 B Fafa And The Gates* - [Problem Link](https://codeforces.com/problemset/problem/935/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P935B_FafaAndTheGates.java)
 - ✅ *Problem 363 B Fence* - [Problem Link](https://codeforces.com/problemset/problem/363/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P363B_Fence.java)
-- ✅ *Problem 227 B Effective Approach* - [Problem Link](https://codeforces.com/problemset/problem/227/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P227B_EffectiveApproach.java)
-- ✅ *Problem 242 B Big Segment* - [Problem Link](https://codeforces.com/problemset/problem/242/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P242B_BigSegment.java)
-- ✅ *Problem 160 B Unlucky Ticket* - [Problem Link](https://codeforces.com/problemset/problem/160/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P160B_UnluckyTicket.java)
-- ✅ *Problem 686 B Little Robber Girls' Zoo* - [Problem Link](https://codeforces.com/contest/686/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P686B_LittleRobberGirlsZoo.java)
-- ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CodeForces/Data_Structure/P950B_InterceptedMessage.java)
+- ✅ *Problem 227 B Effective Approach* - [Problem Link](https://codeforces.com/problemset/problem/227/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P227B_EffectiveApproach.java)
+- ✅ *Problem 242 B Big Segment* - [Problem Link](https://codeforces.com/problemset/problem/242/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P242B_BigSegment.java)
+- ✅ *Problem 160 B Unlucky Ticket* - [Problem Link](https://codeforces.com/problemset/problem/160/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P160B_UnluckyTicket.java)
+- ✅ *Problem 686 B Little Robber Girls' Zoo* - [Problem Link](https://codeforces.com/contest/686/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P686B_LittleRobberGirlsZoo.java)
+- ✅ *Problem 950 B Intercepted Message* - [Problem Link](https://codeforces.com/problemset/problem/950/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Data_Structure/P950B_InterceptedMessage.java)
 ***
 
 ## <p align="center"> String 38 Problems </p>
