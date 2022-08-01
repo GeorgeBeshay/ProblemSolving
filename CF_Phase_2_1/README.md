@@ -63,7 +63,7 @@
 ***
 
 ## <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 10 Out of 25 Completed 🏗️</p>
+<p align="center"> 11 Out of 25 Completed 🏗️</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P734B_AntonAndDigits.java)
 - ✅ *Problem 200 B Drinks* - [Problem Link](https://codeforces.com/problemset/problem/200/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P200B_Drinks.java)
@@ -75,4 +75,5 @@
 - ✅ *Problem 766 B Mahmoud And A Triangle* - [Problem Link](https://codeforces.com/problemset/problem/766/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P766B_MahmoudAndATriangle.java)
 - ✅ *Problem 967 B Watering System* - [Problem Link](https://codeforces.com/problemset/problem/967/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P967B_WateringSystem.java)
 - ✅ *Problem 535 B Tavas And SaDDas* - [Problem Link](https://codeforces.com/problemset/problem/535/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P535B_TavasAndSaDDas.java)
+- ✅ *Problem 667 B Coat Of Anticubism* - [Problem Link](https://codeforces.com/problemset/problem/667/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P667B_CoatOfAnticubism.javahttps://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P667B_CoatOfAnticubism.java)
 ***
