@@ -4,9 +4,10 @@
 <!-- ✅ *Problem * - [Problem Link]() - [My Solution]() -->
 
 ## Basic Operator 15 Problems
-**02 Out Of 15** ✅
+**03 Out Of 15** ✅
 ***
 
 - ✅ *Problem 617 A Elephant* - [Problem Link](https://codeforces.com/problemset/problem/617/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P617A_Elephant.java)
+- ✅ *Problem 546 A Soldier And Bananas* - [Problem Link](https://codeforces.com/problemset/problem/546/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P546A_SoldierAndBananas.java)
 - ✅ *Problem 764 A Taymyr Is Calling You* - [Problem Link](https://codeforces.com/problemset/problem/764/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P764A_TaymyrIsCallingYou.java)
 ***
