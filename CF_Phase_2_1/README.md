@@ -63,7 +63,7 @@
 ***
 
 ## <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 13 Out of 25 Completed 🏗️</p>
+<p align="center"> 14 Out of 25 Completed 🏗️</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P734B_AntonAndDigits.java)
 - ✅ *Problem 200 B Drinks* - [Problem Link](https://codeforces.com/problemset/problem/200/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P200B_Drinks.java)
@@ -78,4 +78,5 @@
 - ✅ *Problem 667 B Coat Of Anticubism* - [Problem Link](https://codeforces.com/problemset/problem/667/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P667B_CoatOfAnticubism.javahttps://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P667B_CoatOfAnticubism.java)
 - ✅ *Problem 733 B Parade* - [Problem Link](https://codeforces.com/problemset/problem/733/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P733B_Parade.java)
 - ✅ *Problem 463 B Caise And Pylons* - [Problem Link](https://codeforces.com/problemset/problem/463/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P463B_CaisaAndPylons.java)
+- ✅ *Problem 467 B Fedor And New Game* - [Problem Link](https://codeforces.com/problemset/problem/467/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P467B_FedorAndNewGame.java)
 ***
