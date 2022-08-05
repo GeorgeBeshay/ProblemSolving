@@ -1,4 +1,4 @@
-# <p align="center">CodeForces Phase 1 - 1 : [Problems](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-1)</p>
+# <p align="center">CodeForces Phase 1 - 1 : [Problems](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-1)</p>
 ***
 
 <!-- ✅ *Problem * - [Problem Link]() - [My Solution]() -->
