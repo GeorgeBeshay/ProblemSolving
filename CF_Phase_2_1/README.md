@@ -79,5 +79,5 @@
 - ✅ *Problem 733 B Parade* - [Problem Link](https://codeforces.com/problemset/problem/733/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P733B_Parade.java)
 - ✅ *Problem 463 B Caise And Pylons* - [Problem Link](https://codeforces.com/problemset/problem/463/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P463B_CaisaAndPylons.java)
 - ✅ *Problem 467 B Fedor And New Game* - [Problem Link](https://codeforces.com/problemset/problem/467/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P467B_FedorAndNewGame.java)
-- ✅ *Problem 519 B A And B Compilation Errors* - [Problem Link](https://codeforces.com/problemset/problem/519/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P519B_AAndBAndCompliationErrors.java)
+- ✅ *Problem 519 B A And B And Compilation Errors* - [Problem Link](https://codeforces.com/problemset/problem/519/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P519B_AAndBAndCompliationErrors.java)
 ***
