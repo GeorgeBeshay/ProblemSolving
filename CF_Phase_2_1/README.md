@@ -63,7 +63,7 @@
 ***
 
 ## <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 20 Out of 25 Completed 🏗️</p>
+<p align="center"> 21 Out of 25 Completed 🏗️</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P734B_AntonAndDigits.java)
 - ✅ *Problem 200 B Drinks* - [Problem Link](https://codeforces.com/problemset/problem/200/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P200B_Drinks.java)
@@ -85,4 +85,5 @@
 - ✅ *Problem 731 B Coupons And Discounts* - [Problem Link](https://codeforces.com/problemset/problem/731/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P731B_CouponsAndDiscounts.java)
 - ✅ *Problem 898 B Proper Nutrition* - [Problem Link](https://codeforces.com/problemset/problem/898/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P898B_ProperNutrition.java)
 - ✅ *Problem 104 B Testing Pants For Sadness* - [Problem Link](https://codeforces.com/problemset/problem/104/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P104B_TestingPantsForSadness.java)
+- ✅ *Problem 987 B High School Become Human* - [Problem Link](https://codeforces.com/contest/987/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P987B_HighSchoolBecomeHuman.java)
 ***
