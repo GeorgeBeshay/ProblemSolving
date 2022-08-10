@@ -63,7 +63,7 @@
 ***
 
 ## <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 21 Out of 25 Completed 🏗️</p>
+<p align="center"> 22 Out of 25 Completed 🏗️</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P734B_AntonAndDigits.java)
 - ✅ *Problem 200 B Drinks* - [Problem Link](https://codeforces.com/problemset/problem/200/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P200B_Drinks.java)
@@ -81,6 +81,7 @@
 - ✅ *Problem 467 B Fedor And New Game* - [Problem Link](https://codeforces.com/problemset/problem/467/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P467B_FedorAndNewGame.java)
 - ✅ *Problem 519 B A And B And Compilation Errors* - [Problem Link](https://codeforces.com/problemset/problem/519/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P519B_AAndBAndCompliationErrors.java)
 - ✅ *Problem 581 B Luxurious Houses* - [Problem Link](https://codeforces.com/problemset/problem/581/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P581B_LuxuriousHouses.java)
+- ✅ *Problem 592 B The Monster And The Squirrel* - [Problem Link](https://codeforces.com/problemset/problem/592/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P592B_TheMonsterAndTheSquirrel.java)
 - ✅ *Problem 721 B Passwords* - [Problem Link](https://codeforces.com/problemset/problem/721/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P721B_Passwords.java)
 - ✅ *Problem 731 B Coupons And Discounts* - [Problem Link](https://codeforces.com/problemset/problem/731/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P731B_CouponsAndDiscounts.java)
 - ✅ *Problem 898 B Proper Nutrition* - [Problem Link](https://codeforces.com/problemset/problem/898/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P898B_ProperNutrition.java)
