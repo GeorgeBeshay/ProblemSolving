@@ -91,3 +91,9 @@
 - ✅ *Problem 841 B Godsend* - [Problem Link](https://codeforces.com/problemset/problem/841/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P841B_Godsend.java)
 - ✅ *Problem 842 B Gleb And Pizza* - [Problem Link](https://codeforces.com/problemset/problem/842/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P842B_GlebAndPizza.java)
 ***
+
+## <p align="center"> Brute Force 13 Problems </p>
+<p align="center"> 00 Out of 13 Completed 🏗️</p>
+
+
+***
