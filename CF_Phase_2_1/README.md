@@ -63,7 +63,7 @@
 ***
 
 ## <p align="center"> Mathematics 25 Problems </p>
-<p align="center"> 24 Out of 25 Completed 🏗️</p>
+<p align="center"> 25 Out of 25 Completed ✅</p>
 
 - ✅ *Problem 734 B Anton And Digits* - [Problem Link](https://codeforces.com/problemset/problem/734/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P734B_AntonAndDigits.java)
 - ✅ *Problem 200 B Drinks* - [Problem Link](https://codeforces.com/problemset/problem/200/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/tree/main/CF_Phase_2_1/Mathematics/P200B_Drinks.java)
@@ -89,4 +89,5 @@
 - ✅ *Problem 987 B High School Become Human* - [Problem Link](https://codeforces.com/contest/987/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P987B_HighSchoolBecomeHuman.java)
 - ✅ *Problem 869 B The Eternal Immortality* - [Problem Link](https://codeforces.com/contest/869/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P869B_TheEternalImmortality.java)
 - ✅ *Problem 841 B Godsend* - [Problem Link](https://codeforces.com/problemset/problem/841/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P841B_Godsend.java)
+- ✅ *Problem 842 B Gleb And Pizza* - [Problem Link](https://codeforces.com/problemset/problem/842/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P842B_GlebAndPizza.java)
 ***
