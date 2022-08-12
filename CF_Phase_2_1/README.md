@@ -93,9 +93,10 @@
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
-<p align="center"> 03 Out of 13 Completed 🏗️</p>
+<p align="center"> 04 Out of 13 Completed 🏗️</p>
 
 - ✅ *Problem 14 B Young Photographer* - [Problem Link](https://codeforces.com/contest/14/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P14B_YoungPhotographer.java)
 - ✅ *Problem 939 B Hamster Farm* - [Problem Link](https://codeforces.com/problemset/problem/939/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P939B_HamsterFarm.py)
 - ✅ *Problem 127 B Canvas Frames* - [Problem Link](https://codeforces.com/problemset/problem/127/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P127B_CanvasFrames.py)
+- ✅ *Problem 122 B Lucky Substring* - [Problem Link](https://codeforces.com/problemset/problem/122/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P122B_LuckySubstring.py)
 ***
