@@ -1,6 +1,11 @@
 # Problem Link:         https://codeforces.com/problemset/problem/127/B
 # Problem Status:       Accepted.
 # ----------------------- SEPARATOR -----------------------
+# IDEA:
+#   Sort the list ascending, iterate over each element, when even 2 same integers are passed, half a frame can be made
+#   increment the answer += .5
+#   At the End, ONLY Whole number of frames should be printed (Ex 3.5 >> 3 Frames)
+# ----------------------- SEPARATOR -----------------------
 # Scanning The Input
 uselessLine = input()
 Reader = input()
