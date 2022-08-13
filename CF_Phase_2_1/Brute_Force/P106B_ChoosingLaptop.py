@@ -7,33 +7,12 @@
 # ----------------------------------- SEPARATOR -----------------------------------
 # Functions Definition:
 def SolverA(Array):
-    NOD = [Array[0]]    # Not Out Dated
-    NOD[0].append(1)
-    for E in range(1, len(Array)):
-        X = Array[E]
-        Flag1 = True
-        Flag2 = False
-        for H in NOD:
-            if X[0] > H[0] and X[1] > H[1] and X[2] > H[2]:
-                Flag2 = True
-            else:
-                Flag2 = False
-                break
-        if Flag2:
-            NOD.clear()
-            NOD.append(X)
-            NOD[0].append(E+1)
-            continue
-        for H in NOD:
-            if X[0] < H[0] and X[1] < H[1] and X[2] < H[2]:
-                Flag1 = False
-                break
-            else:
-                continue
-        if Flag1:
-            NOD.append(X)
-            NOD[-1].append(E+1)
+    NOD = Array
+    C = 0
+    # ---------------------- SEPARATOR ----------------------
     for X in NOD:
+        X.append(C+1)
+        C += 1
         Flag1 = True
         for H in NOD:
             if X[0] < H[0] and X[1] < H[1] and X[2] < H[2]:
@@ -41,6 +20,7 @@ def SolverA(Array):
                 break
         if not Flag1:
             X[-1] = -1
+    # ---------------------- SEPARATOR ----------------------
     MinCost = -10
     Answer = 0
     for Y in NOD:
@@ -51,6 +31,7 @@ def SolverA(Array):
         elif Y[3] < MinCost and Y[4] != -1:
             MinCost = Y[3]
             Answer = Y[4]
+    # ---------------------- SEPARATOR ----------------------
     return Answer
 
 
