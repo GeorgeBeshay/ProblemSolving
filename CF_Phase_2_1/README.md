@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
-<p align="center"> 08 Out of 13 Completed 🏗️</p>
+<p align="center"> 09 Out of 13 Completed 🏗️</p>
 
 - ✅ *Problem 14 B Young Photographer* - [Problem Link](https://codeforces.com/contest/14/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P14B_YoungPhotographer.java)
 - ✅ *Problem 939 B Hamster Farm* - [Problem Link](https://codeforces.com/problemset/problem/939/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P939B_HamsterFarm.py)
@@ -103,4 +103,5 @@
 - ✅ *Problem 192 B Walking In The Rain* - [Problem Link](https://codeforces.com/problemset/problem/192/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P192B_WalkingInTheRain.java)
 - ✅ *Problem 259 B Little Elephant And Magic Square* - [Problem Link](https://codeforces.com/problemset/problem/259/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P259B_LittleElephantAndMagicSquare.java)
 - ✅ *Problem 556 B Case Of Fake Numbers* - [Problem Link](https://codeforces.com/problemset/problem/556/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P556B_CaseOfFakeNumbers.java)
+- ✅ *Problem 629 B Far Relatives Problem* - [Problem Link](https://codeforces.com/problemset/problem/629/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P629B_FarRelativesProblem.java)
 ***
