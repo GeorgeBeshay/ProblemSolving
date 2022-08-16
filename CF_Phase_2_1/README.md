@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
-<p align="center"> 12 Out of 13 Completed 🏗️</p>
+<p align="center"> 13 Out of 13 Completed ✅</p>
 
 - ✅ *Problem 14 B Young Photographer* - [Problem Link](https://codeforces.com/contest/14/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P14B_YoungPhotographer.java)
 - ✅ *Problem 939 B Hamster Farm* - [Problem Link](https://codeforces.com/problemset/problem/939/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P939B_HamsterFarm.py)
@@ -107,4 +107,5 @@
 - ✅ *Problem 919 B Perfect Number* - [Problem Link](https://codeforces.com/problemset/problem/919/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P919B_PerfectNumber.py)
 - ✅ *Problem 975 B Mancala* - [Problem Link](https://codeforces.com/contest/975/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P975B_Mancala.py)
 - ✅ *Problem 779 B Weird Rounding* - [Problem Link](https://codeforces.com/problemset/problem/779/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P779B_WeirdRounding.java)
+- ✅ *Problem 66 B Petya And Countryside* - [Problem Link](https://codeforces.com/problemset/problem/66/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P66B_PetyaAndCountryside.java)
 ***
