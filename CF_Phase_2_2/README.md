@@ -3,9 +3,15 @@
 
 <!-- ✅ *Problem * - [Problem Link]() - [My Solution]() -->
 <!-- 🏗️ -->
+<!-- 
+|[PROBLEM ID - PROBLEM NAME](PROBLEM LINK)|[My Solution](SOLUTION LINK)|[PROBLEM ID - PROBLEM NAME](PROBLEM LINK)|[My Solution](SOLUTION LINK)|
+-->
 
-## <p align="center"> Data Structures 20 Problems </p>
+## <p align="center"> Data Structures `20 Problems` </p>
 <p align="center"> 01 Out of 20 Completed 🏗️</p>
 
-- ✅ *Problem 387 B George And Round* - [Problem Link](https://codeforces.com/problemset/problem/387/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P387B_GeorgeAndRound.java)
+|**Problem**|**Solution**|**Problem**|**Solution**|
+|:----:|:----:|:----:|:----:|
+|[387 B - George And Round](https://codeforces.com/problemset/problem/387/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P387B_GeorgeAndRound.java)|||
+
 ***
