@@ -92,7 +92,13 @@
 - ✅ *Problem 842 B Gleb And Pizza* - [Problem Link](https://codeforces.com/problemset/problem/842/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P842B_GlebAndPizza.java)
 ***
 
-## <p align="center"> Brute Force 13 Problems </p>
+## <p align="center"> Greedy 30 Problems </p>
+<p align="center"> 01 Out of 30 Completed </p>
+
+- ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
+***
+
+## <p align="center"> Brute Force 13 Problems 🏗️</p>
 <p align="center"> 13 Out of 13 Completed ✅</p>
 
 - ✅ *Problem 14 B Young Photographer* - [Problem Link](https://codeforces.com/contest/14/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P14B_YoungPhotographer.java)
