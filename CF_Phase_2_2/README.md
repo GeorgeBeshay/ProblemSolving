@@ -8,7 +8,7 @@
 -->
 
 ## <p align="center"> Data Structures `20 Problems` </p>
-<p align="center"> 05 Out of 20 Completed 🏗️</p>
+<p align="center"> 06 Out of 20 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
