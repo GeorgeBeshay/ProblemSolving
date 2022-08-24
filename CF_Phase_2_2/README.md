@@ -8,7 +8,7 @@
 -->
 
 ## <p align="center"> Data Structures `20 Problems` </p>
-<p align="center"> 08 Out of 20 Completed 🏗️</p>
+<p align="center"> 09 Out of 20 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -16,4 +16,5 @@
 |03|[P439 B - Devu, the Dumb Guy](https://codeforces.com/contest/439/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P439B_DevuTheDumbGuy.java)|04|[P569 B - Inventory](https://codeforces.com/contest/569/problem/B)|[MySolution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P569B_Inventory.java)|
 |05|[P651 B - Beautiful Paintings](https://codeforces.com/problemset/problem/651/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P651B_BeautifulPaintings.py)|06|[P315 B - Sereja And Array](https://codeforces.com/problemset/problem/315/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P315B_SerejaAndArray.java)|
 |07|[P433 B - Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P433B_KuriyamaMirasStones.py)|08|[P701 B - Cells Not Under Attack](https://codeforces.com/problemset/problem/701/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P701B_CellsNotUnderAttack.py)|
+|09|[P959 B - Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P959B_MahmoudAndEhabAndTheMessage.py)||[]()|[]()|
 ***
