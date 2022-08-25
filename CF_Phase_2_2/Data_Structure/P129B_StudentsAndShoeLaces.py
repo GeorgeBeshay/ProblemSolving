@@ -1,5 +1,5 @@
 # Problem Link:     https://codeforces.com/problemset/problem/129/B
-# Problem Status:
+# Problem Status:   Accepted.
 # -------------------------------------- SEPARATOR --------------------------------------
 def TheAmazingFunction(Arr: list, K):
     Ans = 0
