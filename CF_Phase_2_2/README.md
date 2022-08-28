@@ -8,7 +8,7 @@
 -->
 
 ## <p align="center"> Data Structures `20 Problems` </p>
-<p align="center"> 13 Out of 20 Completed 🏗️</p>
+<p align="center"> 14 Out of 20 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -18,5 +18,5 @@
 |07|[P433 B - Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P433B_KuriyamaMirasStones.py)|08|[P701 B - Cells Not Under Attack](https://codeforces.com/problemset/problem/701/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P701B_CellsNotUnderAttack.py)|
 |09|[P959 B - Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P959B_MahmoudAndEhabAndTheMessage.py)|10|[P879 B - Table Tennis](https://codeforces.com/problemset/problem/879/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P879B_TableTennis.py)|
 |11|[P129 B - Students And Shoelaces](https://codeforces.com/contest/129/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P129B_StudentsAndShoeLaces.py)|12|[P902 B - Coloring A Tree](https://codeforces.com/contest/902/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P902B_ColoringATree.java)|
-|13|[P998 B - Cutting](https://codeforces.com/contest/998/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P998B_Cutting.py)|14|[]()|[]()|
+|13|[P998 B - Cutting](https://codeforces.com/contest/998/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P998B_Cutting.py)|14|[P221 B - Little Elephant And Numbers](https://codeforces.com/contest/221/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P221B_LittleElephantAndNumbers.py)|
 ***
