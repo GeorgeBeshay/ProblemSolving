@@ -8,7 +8,7 @@
 -->
 
 ## <p align="center"> Data Structures `20 Problems` </p>
-<p align="center"> 17 Out of 20 Completed 🏗️</p>
+<p align="center"> 18 Out of 20 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -20,5 +20,5 @@
 |11|[P129 B - Students And Shoelaces](https://codeforces.com/contest/129/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P129B_StudentsAndShoeLaces.py)|12|[P902 B - Coloring A Tree](https://codeforces.com/contest/902/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P902B_ColoringATree.java)|
 |13|[P998 B - Cutting](https://codeforces.com/contest/998/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P998B_Cutting.py)|14|[P221 B - Little Elephant And Numbers](https://codeforces.com/contest/221/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P221B_LittleElephantAndNumbers.py)|
 |15|[P222 B - Cosmic Tables](https://codeforces.com/contest/222/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P222B_CosmicTables.cpp)|16|[P236 B - Easy Number Challenge](https://codeforces.com/contest/236/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P236B_EasyNumberChallenge.cpp)|
-|17|[P330 B - Road Construction](https://codeforces.com/problemset/problem/330/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P330B_RoadConstruction.java)|18|[]()|[]()|
+|17|[P330 B - Road Construction](https://codeforces.com/problemset/problem/330/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P330B_RoadConstruction.java)|18|[P352 B - Jeff And Periods](https://codeforces.com/problemset/problem/352/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P352B_JeffAndPeriods.cpp)|
 ***
