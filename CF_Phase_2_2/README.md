@@ -28,5 +28,5 @@
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|01|[P143 B - Help Kingdom Of Far Far Away 2](https://codeforces.com/problemset/problem/143/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P143B_HelpKingdomOfFarFarAway2.py)|02|[]()|[My Solution]()|
+|01|[P143 B - Help Kingdom Of Far Far Away 2](https://codeforces.com/problemset/problem/143/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P143B_HelpKingdomOfFarFarAway2.py)|02|[]()|[]()|
 ***
