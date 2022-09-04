@@ -24,9 +24,9 @@
 |19|[P462 B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P462B_ApplemanAndCardGame.cpp)|20|[P567 B - Berland National Library](https://codeforces.com/problemset/problem/567/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P567B_BerlandNationalLibrary.java)|
 ***
 ## <p align="center"> String `25 Problems` </p>
-<p align="center"> 01 Out of 25 Completed 🏗️</p>
+<p align="center"> 02 Out of 25 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|01|[P143 B - Help Kingdom Of Far Far Away 2](https://codeforces.com/problemset/problem/143/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P143B_HelpKingdomOfFarFarAway2.py)|02|[]()|[]()|
+|01|[P143 B - Help Kingdom Of Far Far Away 2](https://codeforces.com/problemset/problem/143/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P143B_HelpKingdomOfFarFarAway2.py)|02|[P255 B - Code Parsing](https://codeforces.com/contest/255/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P255B_CodeParsing.py)|
 ***
