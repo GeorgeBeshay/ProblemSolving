@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Greedy 30 Problems </p>
-<p align="center"> 10 Out of 30 Completed 🏗️</p>
+<p align="center"> 11 Out of 30 Completed 🏗️</p>
 
 - ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
 - ✅ *Problem 764 B Timofey And Cubes* - [Problem Link](https://codeforces.com/contest/764/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P764B_TimofeyAndCubes.py)
@@ -105,6 +105,7 @@
 - ✅ *Problem 680 B Bear And Finding Criminals* - [Problem Link](https://codeforces.com/problemset/problem/680/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P680B_BearAndFindingCriminals.py)
 - ✅ *Problem 339 B Xenia and Ringroad* - [Problem Link](https://codeforces.com/contest/339/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P339B_XeniaAndRingroad.py)
 - ✅ *Problem 137 B Permutation* - [Problem Link](https://codeforces.com/problemset/problem/137/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P137B_Permutation.py)
+- ✅ *Problem 1008 B Turn The Rectangles* - [Problem Link](https://codeforces.com/problemset/problem/1008/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P1008B_TurnTheRectangles.py)
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
