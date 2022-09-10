@@ -24,7 +24,7 @@
 |19|[P462 B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P462B_ApplemanAndCardGame.cpp)|20|[P567 B - Berland National Library](https://codeforces.com/problemset/problem/567/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P567B_BerlandNationalLibrary.java)|
 ***
 ## <p align="center"> String `25 Problems` </p>
-<p align="center"> 11 Out of 25 Completed 🏗️</p>
+<p align="center"> 12 Out of 25 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -33,5 +33,5 @@
 |05|[P591 B - Rebranding](https://codeforces.com/contest/591/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P591B_Rebranding.py)|06|[P151 B - Phone Numbers](https://codeforces.com/problemset/problem/151/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P151B_PhoneNumbers.java)|
 |07|[P298 B - Sail](https://codeforces.com/problemset/problem/298/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P298B_Sail.java)|08|[P385 B - Bear and Strings](https://codeforces.com/contest/385/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P385B_BearAndStrings.java)|
 |09|[P400 B - Inna and New Matrix of Candies](https://codeforces.com/problemset/problem/400/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P400B_InnaAndNewMatrixOfCandies.java)|10|[P625 B - War Of The Corporations](https://codeforces.com/contest/625/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P625B_WarOfTheCorporations.java)|
-|11|[P47 B - Coins](https://codeforces.com/problemset/problem/47/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P47B_Coins.java)|12|[]()|[]()|
+|11|[P47 B - Coins](https://codeforces.com/problemset/problem/47/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P47B_Coins.java)|12|[P1015 B - Obtaining The String](https://codeforces.com/contest/1015/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P1015B_ObtainingTheString.java)|
 ***
