@@ -4,7 +4,7 @@
 <!-- ✅ *Problem * - [Problem Link]() - [My Solution]() -->
 
 ## Basic Operator 15 Problems
-**05 Out Of 15** ✅
+**06 Out Of 15** ✅
 ***
 
 - ✅ *Problem 617 A Elephant* - [Problem Link](https://codeforces.com/problemset/problem/617/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P617A_Elephant.java)
@@ -12,4 +12,5 @@
 - ✅ *Problem 764 A Taymyr Is Calling You* - [Problem Link](https://codeforces.com/problemset/problem/764/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P764A_TaymyrIsCallingYou.java)
 - ✅ *Problem 151 A Soft Drinking* - [Problem Link](https://codeforces.com/contest/151/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P151A_SoftDrinking.java)
 - ✅ *Problem 448 A Rewards* - [Problem Link](https://codeforces.com/problemset/problem/448/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P448A_Rewards.py)
+- ✅ *Problem 599 A Patrick and Shopping* - [Problem Link](https://codeforces.com/problemset/problem/599/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P599A_PatrickAndShopping.py)
 ***
