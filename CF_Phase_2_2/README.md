@@ -24,7 +24,7 @@
 |19|[P462 B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P462B_ApplemanAndCardGame.cpp)|20|[P567 B - Berland National Library](https://codeforces.com/problemset/problem/567/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P567B_BerlandNationalLibrary.java)|
 ***
 ## <p align="center"> String `25 Problems` </p>
-<p align="center"> 15 Out of 25 Completed 🏗️</p>
+<p align="center"> 16 Out of 25 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -35,5 +35,5 @@
 |09|[P400 B - Inna and New Matrix of Candies](https://codeforces.com/problemset/problem/400/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P400B_InnaAndNewMatrixOfCandies.java)|10|[P625 B - War Of The Corporations](https://codeforces.com/contest/625/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P625B_WarOfTheCorporations.java)|
 |11|[P47 B - Coins](https://codeforces.com/problemset/problem/47/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P47B_Coins.java)|12|[P1015 B - Obtaining The String](https://codeforces.com/contest/1015/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P1015B_ObtainingTheString.java)|
 |13|[P133 B - Unary](https://codeforces.com/contest/133/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P133B_Unary.java)|14|[P989 B - A Tide of Riverscape](https://codeforces.com/contest/989/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P989B_ATideOfRiverscape.java)|
-|15|[P5 B - Center Alignment](https://codeforces.com/contest/5/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P5B_CenterAlignment.cpp)|16|[]()|[]()|
+|15|[P5 B - Center Alignment](https://codeforces.com/contest/5/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P5B_CenterAlignment.cpp)|16|[P318 B - Strings of Power](https://codeforces.com/problemset/problem/318/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P318B_StringsOfPower.cpp)|
 ***
