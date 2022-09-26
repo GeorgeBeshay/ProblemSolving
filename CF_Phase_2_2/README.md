@@ -24,7 +24,7 @@
 |19|[P462 B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P462B_ApplemanAndCardGame.cpp)|20|[P567 B - Berland National Library](https://codeforces.com/problemset/problem/567/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P567B_BerlandNationalLibrary.java)|
 ***
 ## <p align="center"> String `25 Problems` </p>
-<p align="center"> 18 Out of 25 Completed 🏗️</p>
+<p align="center"> 19 Out of 25 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -37,4 +37,5 @@
 |13|[P133 B - Unary](https://codeforces.com/contest/133/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P133B_Unary.java)|14|[P989 B - A Tide of Riverscape](https://codeforces.com/contest/989/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P989B_ATideOfRiverscape.java)|
 |15|[P5 B - Center Alignment](https://codeforces.com/contest/5/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P5B_CenterAlignment.cpp)|16|[P318 B - Strings of Power](https://codeforces.com/problemset/problem/318/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P318B_StringsOfPower.cpp)|
 |17|[P476  - Dreamoon and Wifi](https://codeforces.com/contest/476/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P476B_DreamoonAndWifi.cpp)|18|[P276 B - Little Girl and Game](https://codeforces.com/problemset/problem/276/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P276B_LittleGirlAndGame.cpp)|
+|19|[P716 B - Complete The Word](https://codeforces.com/problemset/problem/716/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P716B_CompleteTheWord.cpp)|20|[]()|[]()|
 ***
