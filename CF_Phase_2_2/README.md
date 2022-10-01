@@ -24,7 +24,7 @@
 |19|[P462 B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P462B_ApplemanAndCardGame.cpp)|20|[P567 B - Berland National Library](https://codeforces.com/problemset/problem/567/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P567B_BerlandNationalLibrary.java)|
 ***
 ## <p align="center"> String `25 Problems` </p>
-<p align="center"> 24 Out of 25 Completed 🏗️</p>
+<p align="center"> 25 Out of 25 Completed ✅</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -40,4 +40,5 @@
 |19|[P716 B - Complete The Word](https://codeforces.com/problemset/problem/716/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P716B_CompleteTheWord.cpp)|20|[P965 B - Battleship](https://codeforces.com/problemset/problem/965/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P965B_Battleship.cpp)|
 |21|[P99 B - Help Chef Gerasim](https://codeforces.com/contest/99/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P99B_HelpChefGerasim.cpp)|22|[P61 B - Hard Work](https://codeforces.com/problemset/problem/61/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P61B_HardWork.cpp)|
 |23|[P798 B - Mike and Strings](https://codeforces.com/contest/798/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P798B_MikeAndStrings.cpp)|24|[P957 B - Mystical Mosaic](https://codeforces.com/problemset/problem/957/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P957B_MysticalMosaic.cpp)|
+|25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
