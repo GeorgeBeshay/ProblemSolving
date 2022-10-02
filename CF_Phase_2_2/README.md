@@ -42,3 +42,10 @@
 |23|[P798 B - Mike and Strings](https://codeforces.com/contest/798/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P798B_MikeAndStrings.cpp)|24|[P957 B - Mystical Mosaic](https://codeforces.com/problemset/problem/957/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P957B_MysticalMosaic.cpp)|
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
+## <p align="center"> Mathematics `35 Problems` </p>
+<p align="center"> 00 Out of 35 Completed 🏗️</p>
+
+|**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|01|[]()|[]()|02|[]()|[]()|
+***
