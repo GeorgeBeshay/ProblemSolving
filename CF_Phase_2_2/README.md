@@ -43,9 +43,9 @@
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
 ## <p align="center"> Mathematics `35 Problems` </p>
-<p align="center"> 00 Out of 35 Completed 🏗️</p>
+<p align="center"> 01 Out of 35 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|01|[]()|[]()|02|[]()|[]()|
+|01|[P186 B - Growing Mushrooms](https://codeforces.com/problemset/problem/186/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P186B_GrowingMushrooms.cpp)|02|[]()|[]()|
 ***
