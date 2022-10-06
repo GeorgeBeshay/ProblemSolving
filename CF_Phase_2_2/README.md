@@ -49,4 +49,5 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P186 B - Growing Mushrooms](https://codeforces.com/problemset/problem/186/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P186B_GrowingMushrooms.cpp)|02|[P401 B - Sereja and Contests](https://codeforces.com/contest/401/problem/B)|[My Soltion](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P401B_SerejaAndContests.cpp)|
 |03|[P424 B - Megacity](https://codeforces.com/problemset/problem/424/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P424B_Megacity.cpp)|04|[P431 B - Shower Line](https://codeforces.com/problemset/problem/431/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P431B_ShowerLine.cpp)|
+|05|[P456 B - Fedya and Maths](https://codeforces.com/problemset/problem/456/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P456B_FedyaAndMaths.cpp)|06|[]()|[]()|
 ***
