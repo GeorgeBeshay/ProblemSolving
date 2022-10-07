@@ -4,7 +4,7 @@
 <!-- ✅ *Problem * - [Problem Link]() - [My Solution]() -->
 
 ## Basic Operator 15 Problems
-**10 Out Of 15** ✅
+**11 Out Of 15** ✅
 ***
 
 - ✅ *Problem 617 A Elephant* - [Problem Link](https://codeforces.com/problemset/problem/617/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P617A_Elephant.java)
@@ -17,4 +17,5 @@
 - ✅ *Problem 746 A Compote* - [Problem Link](https://codeforces.com/problemset/746/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P746A_Compote.py)
 - ✅ *Problem 996 A Hit The Lottery* - [Problem Link](https://codeforces.com/contest/996/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P996A_HitTheLottery.cpp)
 - ✅ *Problem 965 A Paper Airplanes* - [Problem Link](https://codeforces.com/problemset/problem/965/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P965A_PaperAirplanes.cpp)
+- ✅ *Problem 964 A Splits* - [Problem Link](https://codeforces.com/problemset/problem/964/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P964A_Splits.cpp)
 ***
