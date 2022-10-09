@@ -43,12 +43,12 @@
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
 ## <p align="center"> Mathematics `35 Problems` </p>
-<p align="center"> 07 Out of 35 Completed 🏗️</p>
+<p align="center"> 08 Out of 35 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P186 B - Growing Mushrooms](https://codeforces.com/problemset/problem/186/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P186B_GrowingMushrooms.cpp)|02|[P401 B - Sereja and Contests](https://codeforces.com/contest/401/problem/B)|[My Soltion](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P401B_SerejaAndContests.cpp)|
 |03|[P424 B - Megacity](https://codeforces.com/problemset/problem/424/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P424B_Megacity.cpp)|04|[P431 B - Shower Line](https://codeforces.com/problemset/problem/431/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P431B_ShowerLine.cpp)|
 |05|[P456 B - Fedya and Maths](https://codeforces.com/problemset/problem/456/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P456B_FedyaAndMaths.cpp)|06|[P492 B - Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P492B_VanyaAndLanterns.cpp)|
-|07|[P740 B - Alyona and Flowers](https://codeforces.com/problemset/problem/740/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P740B_AlyonaAndFlowers.cpp)|08|[]()|[]()|
+|07|[P740 B - Alyona and Flowers](https://codeforces.com/problemset/problem/740/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P740B_AlyonaAndFlowers.cpp)|08|[P743 B - Chloe and The Sequence](https://codeforces.com/contest/743/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P743B_ChloeAndTheSequence.cpp)|
 ***
