@@ -7,4 +7,6 @@
 [PA](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R817_D4/PA_SpellCheck.java) ✅ - [PB](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R817_D4/PB_Colourblindness.java) ✅ - [PC](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R817_D4/PC_WordGame.java) ✅ - [PD](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R817_D4/PD_Line.java) ✅
 - [Round 826 - Div 3](https://codeforces.com/contest/1741): <br>
 [PA](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R826_D3/PA_CompareTShirtSizes.cpp) ✅ - [PB](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R826_D3/PB_FunnyPermutation.cpp) ✅ - [PC](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R826_D3/PC_MinimizeTheThickness.cpp) ✅ - <!-- [PD]() ✅ -->
+- [Round 827 - Div 4](https://codeforces.com/contest/1742): <br>
+[PA](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R827_D4/PA_Sum.cpp) ✅ - [PB](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R827_D4/PB_Increasing.cpp) ✅ - [PC](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CodeForcesContests/R827_D4/PC_Stripes.cpp) ✅ - <!-- [PD]() ✅ -->
 ***
