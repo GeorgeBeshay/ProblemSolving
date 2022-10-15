@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Greedy 30 Problems </p>
-<p align="center"> 20 Out of 30 Completed 🏗️</p>
+<p align="center"> 21 Out of 30 Completed 🏗️</p>
 
 - ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
 - ✅ *Problem 764 B Timofey And Cubes* - [Problem Link](https://codeforces.com/contest/764/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P764B_TimofeyAndCubes.py)
@@ -115,6 +115,7 @@
 - ✅ *Problem 427 B Prison Transfer* - [Problem Link](https://codeforces.com/problemset/problem/427/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P427B_PrisonTransfer.py)
 - ✅ *Problem 155 B Combination* - [Problem Link](https://codeforces.com/problemset/problem/155/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P155B_Combination.py)
 - ✅ *Problem 347 B Fixed Points* - [Problem Link](https://codeforces.com/problemset/problem/347/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P347B_FixedPoints.cpp)
+- ✅ *Problem 355 B Vasya And Public Transport* - [Problem Link](https://codeforces.com/problemset/problem/355/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P355B_VasyaAndPublicTransport.cpp)
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
