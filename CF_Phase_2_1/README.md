@@ -117,6 +117,7 @@
 - ✅ *Problem 347 B Fixed Points* - [Problem Link](https://codeforces.com/problemset/problem/347/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P347B_FixedPoints.cpp)
 - ✅ *Problem 355 B Vasya And Public Transport* - [Problem Link](https://codeforces.com/problemset/problem/355/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P355B_VasyaAndPublicTransport.cpp)
 - ✅ *Problem 326 B Petya and Staircases* - [Problem Link](https://codeforces.com/problemset/problem/362/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P362B_PetyaAndStaircases.cpp)
+- ✅ *Problem 365 B The Fibonacci Segment* - [Problem Link](https://codeforces.com/contest/365/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P365B_TheFibonacciSegment.cpp)
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
@@ -135,5 +136,4 @@
 - ✅ *Problem 975 B Mancala* - [Problem Link](https://codeforces.com/contest/975/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P975B_Mancala.py)
 - ✅ *Problem 779 B Weird Rounding* - [Problem Link](https://codeforces.com/problemset/problem/779/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P779B_WeirdRounding.java)
 - ✅ *Problem 66 B Petya And Countryside* - [Problem Link](https://codeforces.com/problemset/problem/66/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P66B_PetyaAndCountryside.java)
-- ✅ *Problem 365 B The Fibonacci Segment* - [Problem Link](https://codeforces.com/contest/365/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P365B_TheFibonacciSegment.cpp)
 ***
