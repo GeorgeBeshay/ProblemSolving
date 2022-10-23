@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Greedy 30 Problems </p>
-<p align="center"> 22 Out of 30 Completed 🏗️</p>
+<p align="center"> 23 Out of 30 Completed 🏗️</p>
 
 - ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
 - ✅ *Problem 764 B Timofey And Cubes* - [Problem Link](https://codeforces.com/contest/764/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P764B_TimofeyAndCubes.py)
@@ -135,4 +135,5 @@
 - ✅ *Problem 975 B Mancala* - [Problem Link](https://codeforces.com/contest/975/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P975B_Mancala.py)
 - ✅ *Problem 779 B Weird Rounding* - [Problem Link](https://codeforces.com/problemset/problem/779/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P779B_WeirdRounding.java)
 - ✅ *Problem 66 B Petya And Countryside* - [Problem Link](https://codeforces.com/problemset/problem/66/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Brute_Force/P66B_PetyaAndCountryside.java)
+- ✅ *Problem 365 B The Fibonacci Segment* - [Problem Link](https://codeforces.com/contest/365/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P365B_TheFibonacciSegment.cpp)
 ***
