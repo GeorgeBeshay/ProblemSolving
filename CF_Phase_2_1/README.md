@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Greedy 30 Problems </p>
-<p align="center"> 23 Out of 30 Completed 🏗️</p>
+<p align="center"> 24 Out of 30 Completed 🏗️</p>
 
 - ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
 - ✅ *Problem 764 B Timofey And Cubes* - [Problem Link](https://codeforces.com/contest/764/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P764B_TimofeyAndCubes.py)
@@ -118,6 +118,7 @@
 - ✅ *Problem 355 B Vasya And Public Transport* - [Problem Link](https://codeforces.com/problemset/problem/355/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P355B_VasyaAndPublicTransport.cpp)
 - ✅ *Problem 326 B Petya and Staircases* - [Problem Link](https://codeforces.com/problemset/problem/362/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P362B_PetyaAndStaircases.cpp)
 - ✅ *Problem 365 B The Fibonacci Segment* - [Problem Link](https://codeforces.com/contest/365/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P365B_TheFibonacciSegment.cpp)
+- ✅ *Problem 596 B Wilbur and Array* - [Problem Link](https://codeforces.com/contest/596/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P596B_WilburAndArray.cpp)
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
