@@ -21,5 +21,9 @@
 - ✅ *Problem 931 A Friends Meeting* - [Problem Link](https://codeforces.com/problemset/problem/931/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P931A_FriendsMeeting.cpp)
 - ✅ *Problem 912 A Tricky Alchemy* - [Problem Link](https://codeforces.com/contest/912/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P912A_TrickyAlchemy.cpp)
 - ✅ *Problem 50 A Domino Piling* - [Problem Link](https://codeforces.com/contest/50/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P50A_DominoPiling.cpp)
-- ✅ *Problem 9 A* - [Problem Link](https://codeforces.com/contest/9/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P9A_DieRoll.cpp)
+- ✅ *Problem 9 A Die Roll* - [Problem Link](https://codeforces.com/contest/9/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P9A_DieRoll.cpp)
+***
+## Condition 15 Problems
+**`01 Out Of 15`🏗️**
+- ✅ *Problem 581 A Vasya the Hipster* - [Problem Link](https://codeforces.com/problemset/problem/581/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P581A_VasyaTheHipster.cpp)
 ***
