@@ -26,4 +26,5 @@
 ## Condition 15 Problems
 **`01 Out Of 15`🏗️**
 - ✅ *Problem 581 A Vasya the Hipster* - [Problem Link](https://codeforces.com/problemset/problem/581/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P581A_VasyaTheHipster.cpp)
+- ✅ *Problem 749 A Bachgold Problem* - [Problem Link](https://codeforces.com/contest/749/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P749A_BachgoldProblem.cpp)
 ***
