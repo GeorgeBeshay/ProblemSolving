@@ -43,7 +43,7 @@
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
 ## <p align="center"> Mathematics `35 Problems` </p>
-<p align="center"> 16 Out of 35 Completed 🏗️</p>
+<p align="center"> 17 Out of 35 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -55,4 +55,5 @@
 |11|[P344 B - Simple Molecules](https://codeforces.com/problemset/problem/344/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P344B_SimpleMolecules.cpp)|12|[P552 B - Vanya and Books](https://codeforces.com/problemset/problem/552/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P552B_VanyaAndBooks.cpp)|
 |13|[P560 B - Gerald is into Art](https://codeforces.com/contest/560/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P560B_GeraldIsIntoArt.cpp)|14|[P749 B - Parallelogram is Back](https://codeforces.com/contest/749/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P749B_ParallelogramIsBack.cpp)|
 |15|[P9 B - Running Student](https://codeforces.com/contest/9/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P9B_RunningStudent.cpp)|16|[P854 B - Maxim Buys an Apartment](https://codeforces.com/problemset/problem/854/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P854B_MaximBuysAnApartment.cpp)|
+|PA|[P80 B - Depression](https://codeforces.com/problemset/problem/80/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P80B_Depression.cpp)|18|[]()|[]()|
 ***
