@@ -24,7 +24,7 @@
 - ✅ *Problem 9 A Die Roll* - [Problem Link](https://codeforces.com/contest/9/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P9A_DieRoll.cpp)
 ***
 ## Condition 15 Problems
-**`07 Out Of 15`🏗️**
+**`08 Out Of 15`🏗️**
 - ✅ *Problem 581 A Vasya the Hipster* - [Problem Link](https://codeforces.com/problemset/problem/581/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P581A_VasyaTheHipster.cpp)
 - ✅ *Problem 749 A Bachgold Problem* - [Problem Link](https://codeforces.com/contest/749/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P749A_BachgoldProblem.cpp)
 - ✅ *Problem 281 A Word Capitalization* - [Problem Link](https://codeforces.com/problemset/problem/281/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P281A_WordCapitalization.cpp)
@@ -32,4 +32,5 @@
 - ✅ *Problem 141 A Amusing Joke* - [Problem Link](https://codeforces.com/problemset/problem/141/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P141A_AmusingJoke.cpp)
 - ✅ *Problem 752 A Santa Claus and a Place in a Class* - [Problem Link](https://codeforces.com/problemset/problem/752/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P752A_SantaClausAndAPlaceInAClass.cpp)
 - ✅ *Problem 760 A Petr and a Calendar* - [Problem Link](https://codeforces.com/problemset/problem/760/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P760A_PetrAndACalendar.cpp)
+- ✅ *Problem 378 A Playing with Dice* - [Problem Link](https://codeforces.com/problemset/problem/378/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P378A_PlayingWithDice.cpp)
 ***
