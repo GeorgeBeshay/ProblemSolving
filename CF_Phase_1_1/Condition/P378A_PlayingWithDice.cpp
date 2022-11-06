@@ -4,7 +4,7 @@
 
 /*
  * Problem Link:        https://codeforces.com/problemset/problem/378/A
- * Problem Status:
+ * Problem Status:      Accepted
  */
 
 #include <iostream>
