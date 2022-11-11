@@ -33,7 +33,7 @@
 - ✅ *Problem 752 A Santa Claus and a Place in a Class* - [Problem Link](https://codeforces.com/problemset/problem/752/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P752A_SantaClausAndAPlaceInAClass.cpp)
 - ✅ *Problem 760 A Petr and a Calendar* - [Problem Link](https://codeforces.com/problemset/problem/760/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P760A_PetrAndACalendar.cpp)
 - ✅ *Problem 378 A Playing with Dice* - [Problem Link](https://codeforces.com/problemset/problem/378/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P378A_PlayingWithDice.cpp)
+- ✅ *Problem 472 A Design Tutorial: Learn from Math* - [Problem Link](https://codeforces.com/problemset/problem/472/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P472A_DesignTutorialLearnFromMath.cpp)
 - ✅ *Problem 959 A Mahmoud and Ehab and The Even-Odd Game* - [Problem Link](https://codeforces.com/contest/959/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P959A_MahmoudAndEhabAndTheEvenOddGame.cpp)
 - ✅ *Problem 950 A Left-handers, Right-handers and Ambidexters* - [Problem Link](https://codeforces.com/problemset/problem/950/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P950A_LeftHandersRightHandersAndAmbidexters.cpp)
-- ✅ *Problem 472 A Design Tutorial: Learn from Math* - [Problem Link](https://codeforces.com/problemset/problem/472/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P472A_DesignTutorialLearnFromMath.cpp)
 ***
