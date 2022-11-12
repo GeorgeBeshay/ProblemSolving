@@ -43,7 +43,7 @@
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
 ## <p align="center"> Mathematics `35 Problems` </p>
-<p align="center"> 21 Out of 35 Completed 🏗️</p>
+<p align="center"> 22 Out of 35 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -57,5 +57,5 @@
 |15|[P9 B - Running Student](https://codeforces.com/contest/9/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P9B_RunningStudent.cpp)|16|[P854 B - Maxim Buys an Apartment](https://codeforces.com/problemset/problem/854/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P854B_MaximBuysAnApartment.cpp)|
 |17|[P80 B - Depression](https://codeforces.com/problemset/problem/80/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P80B_Depression.cpp)|18|[P112 B - Petya and Square](https://codeforces.com/contest/112/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P112B_PetyaAndSquare.py)|
 |19|[P78 B - Easter Eggs](https://codeforces.com/problemset/problem/78/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P78B_EasterEggs.cpp)|20|[P59 B - Fortune Telling](https://codeforces.com/contest/59/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P59B_FortuneTelling.cpp)|
-|21|[P794 B - Cutting Carrot](https://codeforces.com/problemset/problem/794/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P794B_CuttingCarrot.cpp)|22|[]()|[]()|
+|21|[P794 B - Cutting Carrot](https://codeforces.com/problemset/problem/794/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P794B_CuttingCarrot.cpp)|22|[P131 B - Opposites Attract](https://codeforces.com/contest/131/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P131B_OppositesAttract.cpp)|
 ***
