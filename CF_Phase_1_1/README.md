@@ -24,7 +24,7 @@
 - ✅ *Problem 9 A Die Roll* - [Problem Link](https://codeforces.com/contest/9/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P9A_DieRoll.cpp)
 ***
 ## Condition 15 Problems
-**`11 Out Of 15`🏗️**
+**`12 Out Of 15`🏗️**
 - ✅ *Problem 581 A Vasya the Hipster* - [Problem Link](https://codeforces.com/problemset/problem/581/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P581A_VasyaTheHipster.cpp)
 - ✅ *Problem 749 A Bachgold Problem* - [Problem Link](https://codeforces.com/contest/749/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P749A_BachgoldProblem.cpp)
 - ✅ *Problem 281 A Word Capitalization* - [Problem Link](https://codeforces.com/problemset/problem/281/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P281A_WordCapitalization.cpp)
@@ -36,4 +36,5 @@
 - ✅ *Problem 472 A Design Tutorial: Learn from Math* - [Problem Link](https://codeforces.com/problemset/problem/472/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P472A_DesignTutorialLearnFromMath.cpp)
 - ✅ *Problem 959 A Mahmoud and Ehab and The Even-Odd Game* - [Problem Link](https://codeforces.com/contest/959/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P959A_MahmoudAndEhabAndTheEvenOddGame.cpp)
 - ✅ *Problem 950 A Left-handers, Right-handers and Ambidexters* - [Problem Link](https://codeforces.com/problemset/problem/950/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P950A_LeftHandersRightHandersAndAmbidexters.cpp)
+- ✅ *Problem 898 A Rounding* - [Problem Link](https://codeforces.com/problemset/problem/898/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P898A_Rounding.cpp)
 ***
