@@ -24,7 +24,7 @@
 - ✅ *Problem 9 A Die Roll* - [Problem Link](https://codeforces.com/contest/9/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P9A_DieRoll.cpp)
 ***
 ## Condition 20 Problems
-**`14 Out Of 20`🏗️**
+**`15 Out Of 20`🏗️**
 - ✅ *Problem 581 A Vasya the Hipster* - [Problem Link](https://codeforces.com/problemset/problem/581/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P581A_VasyaTheHipster.cpp)
 - ✅ *Problem 749 A Bachgold Problem* - [Problem Link](https://codeforces.com/contest/749/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P749A_BachgoldProblem.cpp)
 - ✅ *Problem 281 A Word Capitalization* - [Problem Link](https://codeforces.com/problemset/problem/281/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P281A_WordCapitalization.cpp)
@@ -39,4 +39,5 @@
 - ✅ *Problem 898 A Rounding* - [Problem Link](https://codeforces.com/problemset/problem/898/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P898A_Rounding.cpp)
 - ✅ *Problem 851 A Arpa and a research in Mexican wave* - [Problem Link](https://codeforces.com/problemset/problem/851/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P851A_ArpaAndAResearchInMexicanWave.cpp)
 - ✅ *Problem 835 A Key races* - [Problem Link](https://codeforces.com/problemset/problem/835/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P835A_KeyRaces.cpp)
+- ✅ *Problem P832 A Sasha and Sticks* - [Problem Link](https://codeforces.com/contest/832/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P832A_SashaAndSticks.cpp)
 ***
