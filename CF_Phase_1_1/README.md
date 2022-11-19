@@ -1,7 +1,10 @@
 # <p align="center">CodeForces Phase 1 - 1 : [Problems](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces/phase-1-1)</p>
 ***
 
-<!-- ✅ *Problem * - [Problem Link]() - [My Solution]() -->
+<!-- 
+✅ *Problem * - [Problem Link]() - [My Solution]() 
+🏗️
+-->
 
 ## Basic Operator 15 Problems
 **`15 Out Of 15`✅**
@@ -24,7 +27,7 @@
 - ✅ *Problem 9 A Die Roll* - [Problem Link](https://codeforces.com/contest/9/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P9A_DieRoll.cpp)
 ***
 ## Condition 18 Problems
-**`17 Out Of 18`🏗️**
+**`18 Out Of 18`✅**
 - ✅ *Problem 581 A Vasya the Hipster* - [Problem Link](https://codeforces.com/problemset/problem/581/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P581A_VasyaTheHipster.cpp)
 - ✅ *Problem 749 A Bachgold Problem* - [Problem Link](https://codeforces.com/contest/749/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P749A_BachgoldProblem.cpp)
 - ✅ *Problem 281 A Word Capitalization* - [Problem Link](https://codeforces.com/problemset/problem/281/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P281A_WordCapitalization.cpp)
@@ -42,4 +45,5 @@
 - ✅ *Problem P832 A Sasha and Sticks* - [Problem Link](https://codeforces.com/contest/832/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P832A_SashaAndSticks.cpp)
 - ✅ *Problem 104 A Blackjack* - [Problem Link](https://codeforces.com/problemset/problem/104/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P104A_Blackjack.cpp)
 - ✅ *Problem 47 A Triangular numbers* - [Problem Link](https://codeforces.com/problemset/problem/47/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P47A_TriangularNumbers.cpp)
+- ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
 ***
