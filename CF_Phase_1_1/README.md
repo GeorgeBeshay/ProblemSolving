@@ -6,10 +6,8 @@
 🏗️
 -->
 
-## Basic Operator 15 Problems
+## Basic Operator 15 Problem
 **`15 Out Of 15`✅**
-***
-
 - ✅ *Problem 617 A Elephant* - [Problem Link](https://codeforces.com/problemset/problem/617/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P617A_Elephant.java)
 - ✅ *Problem 546 A Soldier And Bananas* - [Problem Link](https://codeforces.com/problemset/problem/546/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P546A_SoldierAndBananas.java)
 - ✅ *Problem 764 A Taymyr Is Calling You* - [Problem Link](https://codeforces.com/problemset/problem/764/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P764A_TaymyrIsCallingYou.java)
@@ -26,7 +24,7 @@
 - ✅ *Problem 50 A Domino Piling* - [Problem Link](https://codeforces.com/contest/50/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P50A_DominoPiling.cpp)
 - ✅ *Problem 9 A Die Roll* - [Problem Link](https://codeforces.com/contest/9/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/BasicOperator/P9A_DieRoll.cpp)
 ***
-## Condition 18 Problems
+## Condition 18 Problem
 **`18 Out Of 18`✅**
 - ✅ *Problem 581 A Vasya the Hipster* - [Problem Link](https://codeforces.com/problemset/problem/581/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P581A_VasyaTheHipster.cpp)
 - ✅ *Problem 749 A Bachgold Problem* - [Problem Link](https://codeforces.com/contest/749/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P749A_BachgoldProblem.cpp)
@@ -46,4 +44,8 @@
 - ✅ *Problem 104 A Blackjack* - [Problem Link](https://codeforces.com/problemset/problem/104/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P104A_Blackjack.cpp)
 - ✅ *Problem 47 A Triangular numbers* - [Problem Link](https://codeforces.com/problemset/problem/47/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P47A_TriangularNumbers.cpp)
 - ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
+***
+## Loop 26 Problem
+**`01 Out Of 26`🏗️**
+- ✅ *Problem 705 A Hulk* - [Problem Link](https://codeforces.com/problemset/problem/705/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp) 
 ***
