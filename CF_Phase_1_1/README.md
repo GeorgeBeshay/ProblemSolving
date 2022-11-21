@@ -47,5 +47,6 @@
 ***
 ## Loop 26 Problem
 **`01 Out Of 26`🏗️**
-- ✅ *Problem 705 A Hulk* - [Problem Link](https://codeforces.com/problemset/problem/705/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp) 
+- ✅ *Problem 705 A Hulk* - [Problem Link](https://codeforces.com/problemset/problem/705/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)
+- ✅ *Problem 344 A Magnets* - [Problem Link](https://codeforces.com/problemset/problem/344/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp) 
 ***
