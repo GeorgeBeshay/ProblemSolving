@@ -4,6 +4,7 @@
 <!-- 
 ✅ *Problem * - [Problem Link]() - [My Solution]() 
 🏗️
+|PA|[]()|[My Solution]()|PB|[]()|[My Solution]()|
 -->
 
 ## Basic Operator 15 Problem
@@ -46,8 +47,8 @@
 - ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
 ***
 ## Loop 26 Problem
-**`03 Out Of 26`🏗️**
-- ✅ *Problem 705 A Hulk* - [Problem Link](https://codeforces.com/problemset/problem/705/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)
-- ✅ *Problem 344 A Magnets* - [Problem Link](https://codeforces.com/problemset/problem/344/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)
-- ✅ *Problem 703 A Mishka and Game* - [Problem Link](https://codeforces.com/problemset/problem/703/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P703A_MishkaAndGame.cpp)
+**`04 Out Of 26`🏗️**
+
+|01|[P705 A - Hulk](https://codeforces.com/problemset/problem/705/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)|02|[P344 A - Magnets](https://codeforces.com/problemset/problem/344/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)|
+|03|[P703 A - Mishka and Game](https://codeforces.com/problemset/problem/703/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P703A_MishkaAndGame.cpp)|04|[P231 A - Team](https://codeforces.com/problemset/problem/231/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P231A_Team.cpp)|
 ***
