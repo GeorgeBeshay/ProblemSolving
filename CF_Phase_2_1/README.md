@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Greedy 30 Problems </p>
-<p align="center"> 26 Out of 30 Completed 🏗️</p>
+<p align="center"> 27 Out of 30 Completed 🏗️</p>
 
 - ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
 - ✅ *Problem 764 B Timofey And Cubes* - [Problem Link](https://codeforces.com/contest/764/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P764B_TimofeyAndCubes.py)
@@ -121,6 +121,7 @@
 - ✅ *Problem 596 B Wilbur and Array* - [Problem Link](https://codeforces.com/contest/596/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P596B_WilburAndArray.cpp)
 - ✅ *Problem 705 B Spider Man* - [Problem Link](https://codeforces.com/problemset/problem/705/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P705B_SpiderMan.cpp)
 - ✅ *Problem 735 B Urbanization* - [Problem Link](https://codeforces.com/contest/735/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P735B_Urbanization.cpp)
+- ✅ *Problem 835 B The number on the board* - [Problem Link](https://codeforces.com/problemset/problem/835/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P835B_TheNumberOnTheBoard.cpp)
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
