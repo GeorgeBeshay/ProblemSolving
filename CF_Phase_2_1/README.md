@@ -92,8 +92,8 @@
 - ✅ *Problem 842 B Gleb And Pizza* - [Problem Link](https://codeforces.com/problemset/problem/842/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Mathematics/P842B_GlebAndPizza.java)
 ***
 
-## <p align="center"> Greedy 30 Problems </p>
-<p align="center"> 29 Out of 30 Completed 🏗️</p>
+## <p align="center"> Greedy 31 Problems </p>
+<p align="center"> 30 Out of 31 Completed 🏗️</p>
 
 - ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
 - ✅ *Problem 764 B Timofey And Cubes* - [Problem Link](https://codeforces.com/contest/764/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P764B_TimofeyAndCubes.py)
@@ -124,6 +124,7 @@
 - ✅ *Problem 835 B The number on the board* - [Problem Link](https://codeforces.com/problemset/problem/835/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P835B_TheNumberOnTheBoard.cpp)
 - ✅ *Problem 46 B T-shirts from Sponsor* - [Problem Link](https://codeforces.com/contest/46/problem/B?f0a28=1) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P46B_TshirtsFromSponsor.cpp)
 - ✅ *Problem 12 B Correct Solution?* - [Problem Link](https://codeforces.com/problemset/problem/12/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P12B_CorrectSolution.cpp)
+- ✅ *Problem 785 Anton and Classes* - [Problem Link](https://codeforces.com/contest/785/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P785B_AntonAndClasses.cpp)
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
