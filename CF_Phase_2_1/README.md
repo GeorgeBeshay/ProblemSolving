@@ -93,7 +93,7 @@
 ***
 
 ## <p align="center"> Greedy 31 Problems </p>
-<p align="center"> 30 Out of 31 Completed 🏗️</p>
+<p align="center"> 31 Out of 31 Completed 🏗️</p>
 
 - ✅ *Problem 263 B Squares* - [Problem Link](https://codeforces.com/problemset/problem/263/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P263B_Squares.java)
 - ✅ *Problem 764 B Timofey And Cubes* - [Problem Link](https://codeforces.com/contest/764/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P764B_TimofeyAndCubes.py)
@@ -125,6 +125,7 @@
 - ✅ *Problem 46 B T-shirts from Sponsor* - [Problem Link](https://codeforces.com/contest/46/problem/B?f0a28=1) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P46B_TshirtsFromSponsor.cpp)
 - ✅ *Problem 12 B Correct Solution?* - [Problem Link](https://codeforces.com/problemset/problem/12/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P12B_CorrectSolution.cpp)
 - ✅ *Problem 785 Anton and Classes* - [Problem Link](https://codeforces.com/contest/785/problem/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P785B_AntonAndClasses.cpp)
+- ✅ *Problem 136 B* - [Problem Link](https://codeforces.com/problemset/problem/136/B) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_1/Greedy/P136B_TernaryLogic.cpp)
 ***
 
 ## <p align="center"> Brute Force 13 Problems </p>
