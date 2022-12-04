@@ -52,6 +52,6 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P705 A - Hulk](https://codeforces.com/problemset/problem/705/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)|02|[P344 A - Magnets](https://codeforces.com/problemset/problem/344/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)|
 |03|[P703 A - Mishka and Game](https://codeforces.com/problemset/problem/703/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P703A_MishkaAndGame.cpp)|04|[P231 A - Team](https://codeforces.com/problemset/problem/231/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P231A_Team.cpp)|
-|05|[P233 A - Perfect Permutation](https://codeforces.com/problemset/problem/233/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P233A_PerfectPermutation.cpp)|06|[]()|[My Solution]()|
+|05|[P233 A - Perfect Permutation](https://codeforces.com/problemset/problem/233/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P233A_PerfectPermutation.cpp)|06|[]()|[]()|
 
 ***
