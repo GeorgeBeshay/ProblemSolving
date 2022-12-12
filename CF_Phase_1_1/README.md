@@ -47,7 +47,7 @@
 - ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
 ***
 ## Loop 26 Problem
-**`11 Out Of 26`🏗️**
+**`12 Out Of 26`🏗️**
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P705 A - Hulk](https://codeforces.com/problemset/problem/705/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)|02|[P344 A - Magnets](https://codeforces.com/problemset/problem/344/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)|
@@ -55,6 +55,6 @@
 |05|[P233 A - Perfect Permutation](https://codeforces.com/problemset/problem/233/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P233A_PerfectPermutation.cpp)|06|[P361 A - Levko and Table](https://codeforces.com/problemset/problem/361/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P361A_LevkoAndTable.cpp)|
 |07|[P454 A - Little Pony and Crystal Mine](https://codeforces.com/problemset/problem/454/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P454A_LittlePonyAndCrystalMine.cpp)|08|[P467 A - George and Accommodation](https://codeforces.com/problemset/problem/467/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P467A_GeorgeAndAccommodation.cpp)|
 |09|[P672 A - Summer Camp](https://codeforces.com/problemset/problem/672/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P672A_SummerCamp.cpp)|10|[P681 A - A Good Contest](https://codeforces.com/problemset/problem/681/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P681A_AGoodContest.cpp)|
-|11|[P686 A - Free Ice Cream](https://codeforces.com/contest/686/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P686A_FreeIceCream.cpp)|12|[]()|[]()|
+|11|[P686 A - Free Ice Cream](https://codeforces.com/contest/686/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P686A_FreeIceCream.cpp)|12|[P732 A - Buy a Shovel](https://codeforces.com/problemset/problem/732/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P732A_BuyAShovel.cpp)|
 
 ***
