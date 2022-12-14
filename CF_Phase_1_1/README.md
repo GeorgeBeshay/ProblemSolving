@@ -47,7 +47,7 @@
 - ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
 ***
 ## Loop 26 Problem
-**`13 Out Of 26`🏗️**
+**`14 Out Of 26`🏗️**
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P705 A - Hulk](https://codeforces.com/problemset/problem/705/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)|02|[P344 A - Magnets](https://codeforces.com/problemset/problem/344/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)|
@@ -57,5 +57,5 @@
 |09|[P672 A - Summer Camp](https://codeforces.com/problemset/problem/672/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P672A_SummerCamp.cpp)|10|[P681 A - A Good Contest](https://codeforces.com/problemset/problem/681/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P681A_AGoodContest.cpp)|
 |11|[P686 A - Free Ice Cream](https://codeforces.com/contest/686/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P686A_FreeIceCream.cpp)|12|[P732 A - Buy a Shovel](https://codeforces.com/problemset/problem/732/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P732A_BuyAShovel.cpp)|
 |13|[P148 A - Insomnia cure](https://codeforces.com/contest/148/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P148A_InsomniaCure.cpp)|14|[]()|[]()|
-
+|15|[P271A - Beautiful Year](https://codeforces.com/problemset/problem/271/A)|[My Solution]()|16|[]()|[]()|
 ***
