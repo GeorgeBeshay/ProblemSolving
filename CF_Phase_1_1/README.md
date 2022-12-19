@@ -47,7 +47,7 @@
 - ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
 ***
 ## Loop 26 Problem
-**`15 Out Of 26`🏗️**
+**`17 Out Of 26`🏗️**
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P705 A - Hulk](https://codeforces.com/problemset/problem/705/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)|02|[P344 A - Magnets](https://codeforces.com/problemset/problem/344/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)|
@@ -58,4 +58,5 @@
 |11|[P686 A - Free Ice Cream](https://codeforces.com/contest/686/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P686A_FreeIceCream.cpp)|12|[P732 A - Buy a Shovel](https://codeforces.com/problemset/problem/732/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P732A_BuyAShovel.cpp)|
 |13|[P148 A - Insomnia cure](https://codeforces.com/contest/148/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P148A_InsomniaCure.cpp)|14|[P248 A - Cupboards](https://codeforces.com/contest/248/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P248_Cupboards.cpp)|
 |15|[P271 A - Beautiful Year](https://codeforces.com/problemset/problem/271/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P271A_BeatifulYear.cpp)|16|[P431 A - Black Square](https://codeforces.com/problemset/problem/431/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P431A_BlackSquare.cpp)|
+|17|[P492 A - Vasya and Cubes](https://codeforces.com/problemset/problem/492/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P492A_VanyaAndCubes.cpp)|18|[]()|[]()|
 ***
