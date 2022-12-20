@@ -43,7 +43,7 @@
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
 ## <p align="center"> Mathematics `35 Problems` </p>
-<p align="center"> 25 Out of 35 Completed 🏗️</p>
+<p align="center"> 26 Out of 35 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -59,5 +59,5 @@
 |19|[P78 B - Easter Eggs](https://codeforces.com/problemset/problem/78/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P78B_EasterEggs.cpp)|20|[P59 B - Fortune Telling](https://codeforces.com/contest/59/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P59B_FortuneTelling.cpp)|
 |21|[P794 B - Cutting Carrot](https://codeforces.com/problemset/problem/794/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P794B_CuttingCarrot.cpp)|22|[P131 B - Opposites Attract](https://codeforces.com/contest/131/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P131B_OppositesAttract.cpp)|
 |23|[P146 B - Lucky Mask](https://codeforces.com/problemset/problem/146/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P146B_LuckyMask.cpp)|24|[P195 B - After Training](https://codeforces.com/problemset/problem/195/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P195B_AfterTraining.cpp)|
-|25|[P215 B - Olympic Medal](https://codeforces.com/contest/215/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P215B_OlympicMedal.cpp)|26|[]()|[]()|
+|25|[P215 B - Olympic Medal](https://codeforces.com/contest/215/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P215B_OlympicMedal.cpp)|26|[P230 B - T-primes](https://codeforces.com/contest/230/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P230B_T-Primes.cpp)|
 ***
