@@ -47,7 +47,7 @@
 - ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
 ***
 ## Loop 26 Problem
-**`20 Out Of 26`🏗️**
+**`21 Out Of 26`🏗️**
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P705 A - Hulk](https://codeforces.com/problemset/problem/705/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)|02|[P344 A - Magnets](https://codeforces.com/problemset/problem/344/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)|
@@ -60,4 +60,5 @@
 |15|[P271 A - Beautiful Year](https://codeforces.com/problemset/problem/271/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P271A_BeatifulYear.cpp)|16|[P431 A - Black Square](https://codeforces.com/problemset/problem/431/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P431A_BlackSquare.cpp)|
 |17|[P492 A - Vasya and Cubes](https://codeforces.com/problemset/problem/492/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P492A_VanyaAndCubes.cpp)|18|[P214 A - System of Equations](https://codeforces.com/contest/214/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P214A_SystemOfEquations.cpp)|
 |19|[P747 A - Display Size](https://codeforces.com/problemset/problem/747/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P747A_DisplaySize.cpp)|20|[P935 A - Fafa and his Company](https://codeforces.com/problemset/problem/935/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P935A_FafaAndHisCompany.cpp)|
+|PA|[P919 A - Supermarket](https://codeforces.com/problemset/problem/919/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P919A_SuperMarket.cpp)|22|[]()|[]()|
 ***
