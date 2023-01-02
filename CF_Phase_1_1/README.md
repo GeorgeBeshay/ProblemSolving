@@ -47,7 +47,7 @@
 - ✅ *Problem 4 A Watermelon* - [Problem Link](https://codeforces.com/contest/4/problem/A) - [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Condition/P4A_Watermelon.cpp)
 ***
 ## Loop 26 Problem
-**`25 Out Of 26`🏗️**
+**`26 Out Of 26`🏗️**
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P705 A - Hulk](https://codeforces.com/problemset/problem/705/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P705A_Hulk.cpp)|02|[P344 A - Magnets](https://codeforces.com/problemset/problem/344/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P344A_Magnets.cpp)|
@@ -61,6 +61,6 @@
 |17|[P492 A - Vasya and Cubes](https://codeforces.com/problemset/problem/492/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P492A_VanyaAndCubes.cpp)|18|[P214 A - System of Equations](https://codeforces.com/contest/214/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P214A_SystemOfEquations.cpp)|
 |19|[P747 A - Display Size](https://codeforces.com/problemset/problem/747/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P747A_DisplaySize.cpp)|20|[P935 A - Fafa and his Company](https://codeforces.com/problemset/problem/935/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P935A_FafaAndHisCompany.cpp)|
 |21|[P919 A - Supermarket](https://codeforces.com/problemset/problem/919/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P919A_SuperMarket.cpp)|22|[P900 A - Find Extra One](https://codeforces.com/problemset/problem/900/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P900A_FindExtraOne.cpp)|
-|23|[P854 A - Fraction](https://codeforces.com/problemset/problem/854/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P854A_Fraction.cpp)|24|[]()|[]()|
+|23|[P854 A - Fraction](https://codeforces.com/problemset/problem/854/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P854A_Fraction.cpp)|24|[P822 A - I'm bored with life](https://codeforces.com/problemset/problem/822/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P822A_I'mBoredWithLife.cpp)|
 |25|[P811 A - Vladik nad Courtesy](https://codeforces.com/problemset/problem/811/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P811A_VladikAndCourtesy.cpp)|26|[P796 A - Buying A House](https://codeforces.com/contest/796/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P796A_BuyingAHouse.cpp)|
 ***
