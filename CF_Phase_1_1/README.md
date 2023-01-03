@@ -64,3 +64,9 @@
 |23|[P854 A - Fraction](https://codeforces.com/problemset/problem/854/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P854A_Fraction.cpp)|24|[P822 A - I'm bored with life](https://codeforces.com/problemset/problem/822/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P822A_I'mBoredWithLife.cpp)|
 |25|[P811 A - Vladik nad Courtesy](https://codeforces.com/problemset/problem/811/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P811A_VladikAndCourtesy.cpp)|26|[P796 A - Buying A House](https://codeforces.com/contest/796/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P796A_BuyingAHouse.cpp)|
 ***
+## Loop 26 Problem
+**`01 Out Of 35`🏗️**
+|**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|01|[P711 A - Bus to Udayland](https://codeforces.com/problemset/problem/711/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P711A_BusToUdayland.cpp)|02|[]()|[]()|
+***
