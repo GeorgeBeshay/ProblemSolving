@@ -43,7 +43,7 @@
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
 ## <p align="center"> Mathematics `35 Problems` </p>
-<p align="center"> 30 Out of 35 Completed 🏗️</p>
+<p align="center"> 31 Out of 35 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -62,4 +62,5 @@
 |25|[P215 B - Olympic Medal](https://codeforces.com/contest/215/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P215B_OlympicMedal.cpp)|26|[P230 B - T-primes](https://codeforces.com/contest/230/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P230B_T-Primes.cpp)|
 |27|[P312 B - Archer](https://codeforces.com/problemset/problem/312/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P312B_Archer.cpp)|28|[P478 B - Random Teams](https://codeforces.com/problemset/problem/478/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P478B_RandomTeams.cpp)|
 |29|[P681 B - Economy Game](https://codeforces.com/contest/681/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P681B_EconomyGame.cpp)|30|[P 761 B - Dasha and Friends](https://codeforces.com/contest/761/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P761B_DashaAndFriends.cpp)|
+|31|[]()|[]()|32|[P 257 B - Playing Cubes](https://codeforces.com/problemset/problem/257/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P257B_PlayingCubes.cpp)|
 ***
