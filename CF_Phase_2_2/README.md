@@ -43,7 +43,7 @@
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
 ## <p align="center"> Mathematics `35 Problems` </p>
-<p align="center"> 33 Out of 35 Completed 🏗️</p>
+<p align="center"> 34 Out of 34 Completed ✅</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -63,5 +63,5 @@
 |27|[P312 B - Archer](https://codeforces.com/problemset/problem/312/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P312B_Archer.cpp)|28|[P478 B - Random Teams](https://codeforces.com/problemset/problem/478/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P478B_RandomTeams.cpp)|
 |29|[P681 B - Economy Game](https://codeforces.com/contest/681/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P681B_EconomyGame.cpp)|30|[P761 B - Dasha and Friends](https://codeforces.com/contest/761/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P761B_DashaAndFriends.cpp)|
 |31|[P189 B - Couting Rhombi](https://codeforces.com/contest/189/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P189B_CountingRhombi.cpp)|32|[P 257 B - Playing Cubes](https://codeforces.com/problemset/problem/257/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P257B_PlayingCubes.cpp)|
-|33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[]()|[]()|
+|33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P 371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
