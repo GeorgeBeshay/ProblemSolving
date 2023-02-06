@@ -7,7 +7,7 @@
 |PA|[]()|[My Solution]()|PB|[]()|[My Solution]()|
 -->
 
-## <p align="center"> Data Structures `20 Problems` </p>
+## <p align="center"> Data Structures `20 Problem` </p>
 <p align="center"> 20 Out of 20 Completed ✅</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
@@ -23,7 +23,7 @@
 |17|[P330 B - Road Construction](https://codeforces.com/problemset/problem/330/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P330B_RoadConstruction.java)|18|[P352 B - Jeff And Periods](https://codeforces.com/problemset/problem/352/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P352B_JeffAndPeriods.cpp)|
 |19|[P462 B - Appleman and Card Game](https://codeforces.com/contest/462/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P462B_ApplemanAndCardGame.cpp)|20|[P567 B - Berland National Library](https://codeforces.com/problemset/problem/567/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Data_Structure/P567B_BerlandNationalLibrary.java)|
 ***
-## <p align="center"> String `25 Problems` </p>
+## <p align="center"> String `25 Problem` </p>
 <p align="center"> 25 Out of 25 Completed ✅</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
@@ -42,7 +42,7 @@
 |23|[P798 B - Mike and Strings](https://codeforces.com/contest/798/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P798B_MikeAndStrings.cpp)|24|[P957 B - Mystical Mosaic](https://codeforces.com/problemset/problem/957/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P957B_MysticalMosaic.cpp)|
 |25|[P828 B - Black Square](https://codeforces.com/contest/828/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/String/P828B_BlackSquare.cpp)||[]()|[]()|
 ***
-## <p align="center"> Mathematics `35 Problems` </p>
+## <p align="center"> Mathematics `34 Problem` </p>
 <p align="center"> 34 Out of 34 Completed ✅</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
@@ -62,6 +62,12 @@
 |25|[P215 B - Olympic Medal](https://codeforces.com/contest/215/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P215B_OlympicMedal.cpp)|26|[P230 B - T-primes](https://codeforces.com/contest/230/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P230B_T-Primes.cpp)|
 |27|[P312 B - Archer](https://codeforces.com/problemset/problem/312/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P312B_Archer.cpp)|28|[P478 B - Random Teams](https://codeforces.com/problemset/problem/478/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P478B_RandomTeams.cpp)|
 |29|[P681 B - Economy Game](https://codeforces.com/contest/681/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P681B_EconomyGame.cpp)|30|[P761 B - Dasha and Friends](https://codeforces.com/contest/761/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P761B_DashaAndFriends.cpp)|
-|31|[P189 B - Couting Rhombi](https://codeforces.com/contest/189/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P189B_CountingRhombi.cpp)|32|[P 257 B - Playing Cubes](https://codeforces.com/problemset/problem/257/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P257B_PlayingCubes.cpp)|
-|33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P 371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
+|31|[P189 B - Couting Rhombi](https://codeforces.com/contest/189/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P189B_CountingRhombi.cpp)|32|[P257 B - Playing Cubes](https://codeforces.com/problemset/problem/257/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P257B_PlayingCubes.cpp)|
+|33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
+## <p align="center"> Greedy`30 Problem` </p>
+<p align="center"> 02 Out of 30 Completed 🏗️</p>
+
+|**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|01|[P302 B - Eugeny and Play List](https://codeforces.com/problemset/problem/302/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P302B_EugencyAndPlayList.cpp)|02|[P361 B - Levko and Permutation](https://codeforces.com/contest/361/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P361B_LevkoAndPermutation.cpp)|
