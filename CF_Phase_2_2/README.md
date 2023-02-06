@@ -65,7 +65,7 @@
 |31|[P189 B - Couting Rhombi](https://codeforces.com/contest/189/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P189B_CountingRhombi.cpp)|32|[P257 B - Playing Cubes](https://codeforces.com/problemset/problem/257/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P257B_PlayingCubes.cpp)|
 |33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
-## <p align="center"> Greedy`30 Problem` </p>
+## <p align="center"> Greedy `30 Problem` </p>
 <p align="center"> 02 Out of 30 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
