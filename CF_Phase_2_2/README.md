@@ -66,7 +66,7 @@
 |33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
 ## <p align="center"> Greedy `30 Problem` </p>
-<p align="center"> 08 Out of 30 Completed 🏗️</p>
+<p align="center"> 09 Out of 30 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -74,3 +74,4 @@
 |03|[P583 B - Robot's Task](https://codeforces.com/problemset/problem/583/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P583B_Robot'sTask.cpp)|04|[P682 B - Alyona and Mex](https://codeforces.com/problemset/problem/682/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P682B_AlyonaAndMex.cpp)|
 |05|[P714 B - Filya and Homework](https://codeforces.com/problemset/problem/714/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P714B_FilyaAndHomework.cpp)|06|[P262 B - Roma and Changing Signs](https://codeforces.com/problemset/problem/262/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P262B_RomaAndChangingSigns.cpp)|
 |07|[P285 B - Find Marble](https://codeforces.com/problemset/problem/285/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P285B_FindMarble.cpp)|08|[P327 B - Hungry Sequence](https://codeforces.com/contest/327/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P327B_HungrySequence.cpp)|
+|09|[P454 B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P454B_LittlePonyAndSortByShift.cpp)|10|[]()|[]()|
