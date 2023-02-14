@@ -66,7 +66,7 @@
 |33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
 ## <p align="center"> Greedy `30 Problem` </p>
-<p align="center"> 13 Out of 30 Completed 🏗️</p>
+<p align="center"> 14 Out of 30 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -76,4 +76,4 @@
 |07|[P285 B - Find Marble](https://codeforces.com/problemset/problem/285/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P285B_FindMarble.cpp)|08|[P327 B - Hungry Sequence](https://codeforces.com/contest/327/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P327B_HungrySequence.cpp)|
 |09|[P454 B - Little Pony and Sort by Shift](https://codeforces.com/contest/454/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P454B_LittlePonyAndSortByShift.cpp)|10|[P474 B - Worms](https://codeforces.com/contest/474/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P474B_Worms.cpp)|
 |11|[P489 B - BerSU Ball](https://codeforces.com/contest/489/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P489B_BerSUBall.cpp)|12|[P631 B - Print Check](https://codeforces.com/contest/631/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P631B_PrintCheck.cpp)|
-|13|[P4 B - Before an Exam](https://codeforces.com/problemset/problem/4/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P4B_BeforeAnExam.cpp)|14|[]()|[]()|
+|13|[P4 B - Before an Exam](https://codeforces.com/problemset/problem/4/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P4B_BeforeAnExam.cpp)|14|[P811 B - Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/)|
