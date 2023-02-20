@@ -65,9 +65,11 @@
 |25|[P811 A - Vladik nad Courtesy](https://codeforces.com/problemset/problem/811/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P811A_VladikAndCourtesy.cpp)|26|[P796 A - Buying A House](https://codeforces.com/contest/796/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/Loop/P796A_BuyingAHouse.cpp)|
 ***
 ## String 34 Problem
-**`04 Out Of 34`🏗️**
+**`07 Out Of 34`🏗️**
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P711 A - Bus to Udayland](https://codeforces.com/problemset/problem/711/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P711A_BusToUdayland.cpp)|02|[P721 A - One Dimensional Japanese Crossword](https://codeforces.com/problemset/problem/721/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P721A_OneDimensionalJapaneseCrossword.cpp)|
 |03|[P734 A - Anton and Danik](https://codeforces.com/contest/734/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P734A_AntonAndDanik.cpp)|04|[P231 A - Team](https://codeforces.com/contest/231/problem/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P231A_Team.cpp)|
+|05|[P266 A - Stones on the Table](https://codeforces.com/problemset/problem/266/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P266A_StonesOnTheTable.cpp)|06|[P384 A - Coder](https://codeforces.com/problemset/problem/384/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P384A_Coder.cpp)|
+|07|[P443 A - Anton and Letters](https://codeforces.com/problemset/problem/443/A)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_1_1/String/P443A_AntonAndLetters.cpp)|08|[]()|[]()|
 ***
