@@ -66,7 +66,7 @@
 |33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
 ## <p align="center"> Greedy `30 Problem` </p>
-<p align="center"> 18 Out of 30 Completed 🏗️</p>
+<p align="center"> 19 Out of 30 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -79,3 +79,4 @@
 |13|[P4 B - Before an Exam](https://codeforces.com/problemset/problem/4/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P4B_BeforeAnExam.cpp)|14|[P811 B - Vladik and Complicated Book](https://codeforces.com/contest/811/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P811B_VladikAndComplicated)|
 |15|[P899 B - Months and Years](https://codeforces.com/contest/899/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P899B_MonthsAndYears.cpp)|16|[P1006 B - Polycarp's Practice](https://codeforces.com/contest/1006/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P1006B_PolycarpsPractice.cpp)|
 |17|[P1013 B - And](https://codeforces.com/contest/1013/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P1013B_And.cpp)|18|[P63 B - Settlers' Training](https://codeforces.com/contest/63/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P63B_SettlersTraining.cpp)|
+|19|[P872 B - Maximum of Maximums of minimums](https://codeforces.com/problemset/problem/872/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P872B_MaximumOfMaximumsOfMinimums.cpp)|20|[]()|[]()|
