@@ -66,7 +66,7 @@
 |33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
 ## <p align="center"> Greedy `30 Problem` </p>
-<p align="center"> 23 Out of 30 Completed 🏗️</p>
+<p align="center"> 24 Out of 30 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -81,5 +81,5 @@
 |17|[P1013 B - And](https://codeforces.com/contest/1013/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P1013B_And.cpp)|18|[P63 B - Settlers' Training](https://codeforces.com/contest/63/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P63B_SettlersTraining.cpp)|
 |19|[P872 B - Maximum of Maximums of minimums](https://codeforces.com/problemset/problem/872/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P872B_MaximumOfMaximumsOfMinimums.cpp)|20|[P892 B - Wrath](https://codeforces.com/problemset/problem/892/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P892B_Wrath.cpp)|
 |21|[P914 B - Conan and Agasa play a Card Game](https://codeforces.com/contest/914/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P914B_ConanAndAgasaPlayACardGame.cpp)|22|[P69 B - Bets](https://codeforces.com/problemset/problem/69/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P69B_Bets.cpp)|
-|23|[P934 B - A Prosperous Lot](https://codeforces.com/problemset/problem/934/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P934B_AProsperousLot.cpp)|24|[]()|[]()|
+|23|[P934 B - A Prosperous Lot](https://codeforces.com/problemset/problem/934/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P934B_AProsperousLot.cpp)|24|[P144 B - Meeting](https://codeforces.com/contest/144/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P144B_Meeting.cpp)|
 
