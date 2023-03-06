@@ -66,7 +66,7 @@
 |33|[P271 B - Prime Matrix](https://codeforces.com/contest/271/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P271B_PrimeMatrix.cpp)|34|[P371 B - Fox Dividing Cheese](https://codeforces.com/contest/371/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Mathematics/P371B_FoxDividingCheese.cpp)|
 ***
 ## <p align="center"> Greedy `30 Problem` </p>
-<p align="center"> 29 Out of 30 Completed 🏗️</p>
+<p align="center"> 30 Out of 30 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -84,4 +84,4 @@
 |23|[P934 B - A Prosperous Lot](https://codeforces.com/problemset/problem/934/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P934B_AProsperousLot.cpp)|24|[P144 B - Meeting](https://codeforces.com/contest/144/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P144B_Meeting.cpp)|
 |25|[P246 B - Increase and Decrease](https://codeforces.com/contest/246/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P246B_IncreaseAndDecrease.cpp)|26|[P370 B - Berland Bingo](https://codeforces.com/contest/370/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P370B_BerlandBingo.cpp)|
 |27|[P376 B - I.O.U](https://codeforces.com/contest/376/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P376B_IOU.cpp)|28|[P378 B - Semifinals](https://codeforces.com/problemset/problem/378/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P378B_Semifinals.cpp)|
-|29|[P426 B - Sereja and Mirroring](https://codeforces.com/problemset/problem/426/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P426B_SerejaAndMirroring.cpp)|30|[]()|[]()|
+|29|[P426 B - Sereja and Mirroring](https://codeforces.com/problemset/problem/426/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P426B_SerejaAndMirroring.cpp)|30|[P451 B - Sort the Array](https://codeforces.com/problemset/problem/451/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P451B_SortTheArray.cpp)|
