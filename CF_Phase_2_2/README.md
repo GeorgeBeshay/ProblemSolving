@@ -85,3 +85,16 @@
 |25|[P246 B - Increase and Decrease](https://codeforces.com/contest/246/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P246B_IncreaseAndDecrease.cpp)|26|[P370 B - Berland Bingo](https://codeforces.com/contest/370/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P370B_BerlandBingo.cpp)|
 |27|[P376 B - I.O.U](https://codeforces.com/contest/376/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P376B_IOU.cpp)|28|[P378 B - Semifinals](https://codeforces.com/problemset/problem/378/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P378B_Semifinals.cpp)|
 |29|[P426 B - Sereja and Mirroring](https://codeforces.com/problemset/problem/426/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P426B_SerejaAndMirroring.cpp)|30|[P451 B - Sort the Array](https://codeforces.com/problemset/problem/451/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Greedy/P451B_SortTheArray.cpp)|
+***
+
+<!-- 
+|PA|[]()|[My Solution]()|PB|[]()|[My Solution]()|
+-->
+
+## <p align="center"> Brute Force `10 Problem` </p>
+<p align="center"> 01 Out of 10 Completed 🏗️</p>
+
+|**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|01|[P366 B - Dima and To-do List](https://codeforces.com/contest/366/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute Force/P366B_DimaAndToDoList.cpp)|02|[]()|[]()|
+***
