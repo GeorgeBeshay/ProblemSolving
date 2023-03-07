@@ -96,5 +96,5 @@
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|01|[P366 B - Dima and To-do List](https://codeforces.com/contest/366/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute Force/P366B_DimaAndToDoList.cpp)|02|[]()|[]()|
+|01|[P366 B - Dima and To-do List](https://codeforces.com/contest/366/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P366B_DimaAndToDoList.cpp)|02|[]()|[]()|
 ***
