@@ -92,9 +92,9 @@
 -->
 
 ## <p align="center"> Brute Force `10 Problem` </p>
-<p align="center"> 01 Out of 10 Completed 🏗️</p>
+<p align="center"> 02 Out of 14 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|01|[P366 B - Dima and To-do List](https://codeforces.com/contest/366/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P366B_DimaAndToDoList.cpp)|02|[]()|[]()|
+|01|[P366 B - Dima and To-do List](https://codeforces.com/contest/366/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P366B_DimaAndToDoList.cpp)|02|[P546 B - Soldier and Badges](https://codeforces.com/contest/546/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P546B_SoldierAndBadges.cpp)|
 ***
