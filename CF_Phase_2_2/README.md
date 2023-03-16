@@ -92,11 +92,12 @@
 -->
 
 ## <p align="center"> Brute Force `14 Problem` </p>
-<p align="center"> 06 Out of 14 Completed 🏗️</p>
+<p align="center"> 07 Out of 14 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |01|[P366 B - Dima and To-do List](https://codeforces.com/contest/366/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P366B_DimaAndToDoList.cpp)|02|[P546 B - Soldier and Badges](https://codeforces.com/contest/546/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P546B_SoldierAndBadges.cpp)|
 |03|[P738 B - Spotlights](https://codeforces.com/problemset/problem/738/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P738B_Spotlights.cpp)|04|[P931 B - World Cup](https://codeforces.com/contest/931/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P931B_WorldCup.cpp)|
 |05|[P38 B - Chess](https://codeforces.com/contest/38/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P38B_Chess.cpp)|06|[P48 B - Land Lot](https://codeforces.com/contest/48/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P48B_LandLot.cpp)|
+|07|[P1011 B - Planning The Expedition](https://codeforces.com/contest/1011/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P1011B_PlanningTheExpedition.cpp)|08|[]()|[]()|
 ***
