@@ -92,7 +92,7 @@
 -->
 
 ## <p align="center"> Brute Force `14 Problem` </p>
-<p align="center"> 08 Out of 14 Completed 🏗️</p>
+<p align="center"> 10 Out of 14 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -100,4 +100,5 @@
 |03|[P738 B - Spotlights](https://codeforces.com/problemset/problem/738/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P738B_Spotlights.cpp)|04|[P931 B - World Cup](https://codeforces.com/contest/931/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P931B_WorldCup.cpp)|
 |05|[P38 B - Chess](https://codeforces.com/contest/38/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P38B_Chess.cpp)|06|[P48 B - Land Lot](https://codeforces.com/contest/48/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P48B_LandLot.cpp)|
 |07|[P1011 B - Planning The Expedition](https://codeforces.com/contest/1011/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P1011B_PlanningTheExpedition.cpp)|08|[P416 B - Art Union](https://codeforces.com/problemset/problem/416/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P416B_ArtUnion.cpp)|
+|09|[P485 B - Valuable Resources](https://codeforces.com/problemset/problem/485/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P485B_ValuableResources.cpp)|10|[P203 B - Game on Paper](https://codeforces.com/problemset/problem/203/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_2/Brute%20Force/P203B_GameOnPaper.cpp)|
 ***
