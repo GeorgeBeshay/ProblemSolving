@@ -8,7 +8,7 @@
 -->
 
 ## <p align="center"> Data Structures `24 Problems` </p>
-<p align="center"> 08 Out of 24 Completed 🏗️</p>
+<p align="center"> 09 Out of 24 Completed 🏗️</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -16,4 +16,5 @@
 |03|[P471 B - MUH and Important Things](https://codeforces.com/problemset/problem/471/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_3/Data%20Structure/P471B_MUHAndImportantThings.cpp)|04|[P486 B - OR in Matrix](https://codeforces.com/problemset/problem/486/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_3/Data%20Structure/P486B_ORinMatrix.cpp)|
 |05|[P515 B - Drazil and His Happy Friends](https://codeforces.com/problemset/problem/515/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_3/Data%20Structure/P515B_DrazilAndHisHappyFriends.cpp)|06|[P572 B - Order Book](https://codeforces.com/problemset/problem/572/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_3/Data%20Structure/P572B_OrderBook.cpp)|
 |07|[P579 B - Finding Team Member](https://codeforces.com/problemset/problem/579/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_3/Data%20Structure/P579B_FindingTeamMember.cpp)|08|[P659 B - Qualifying Contest](https://codeforces.com/problemset/problem/659/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_3/Data%20Structure/P659B_QualifyingContest.cpp)|
+|09|[P932 B -Recursive Queries](https://codeforces.com/contest/932/problem/B)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_2_3/Data%20Structure/P932B_RecursiveQueries.cpp)|10|[]()|[]()|
 ***
