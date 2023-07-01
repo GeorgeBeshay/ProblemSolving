@@ -55,30 +55,19 @@ int main() {
 void dfs_and_solve(vector<vector<int>>& adjList, vector<bool>& visited, vector<int>& answers, int* current, int* goal, int node, int level, int odd_c, int even_c){
 
     bool flip = (level % 2 == 0) ? even_c % 2 : odd_c % 2;
-    int changed = 0;
 
     if((current[node] == goal[node] && flip)|| (!flip && current[node] != goal[node])){
         current[node] = goal[node];
         answers.push_back(node + 1);
-        if(level % 2 == 0) {
+        if(level % 2 == 0)
             even_c++;
-            changed = 1;
-        }
-        else {
+        else
             odd_c++;
-            changed = 2;
-        }
     }
 
     level++;
     visited[node] = true;
-    for(int x : adjList[node]){
+    for(int x : adjList[node])
         if(!visited[x])
             dfs_and_solve(adjList, visited, answers, current, goal, x, level, odd_c, even_c);
-    }
-
-    if(changed == 1)
-        even_c--;
-    else if(changed == 2)
-        odd_c--;
 }
