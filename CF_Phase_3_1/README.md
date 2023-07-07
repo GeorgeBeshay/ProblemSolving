@@ -8,7 +8,7 @@
 -->
 
 ## <p align="center"> Graph `13 Problems` </p>
-<p align="center"> 13 Out of 13 Completed 🏗️</p>
+<p align="center"> 13 Out of 13 Completed ✅</p>
 
 |**Num**|**Problem**|**Solution**|**Num**|**Problem**|**Solution**|
 |:----:|:----:|:----:|:----:|:----:|:----:|
