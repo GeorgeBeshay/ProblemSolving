@@ -3,9 +3,10 @@
 </p>
 
 # <p align="center">Problem Solving</p>
-## <p align="center">[My Codeforces Handle](https://codeforces.com/profile/GeorgeBeshay)</p>
+## <p align="center">[Codeforces Handle](https://codeforces.com/profile/GeorgeBeshay)</p>
+## <p align="center">[Leetcode Profile](https://leetcode.com/George_Beshay/)</p>
 ## *Repo Content*
-***Problems Solved By Me From:***
+***Problems Solved From:***
 - ***[The Sheet Made By @cs-MohamedAyman](https://github.com/cs-MohamedAyman/Problem-Solving-Training)***
 - ***Other***
 ***
