@@ -20,3 +20,11 @@
 |11|[P839 C - Journey](https://codeforces.com/contest/839/problem/C)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Graph/P839C_Journey.cpp)|12|[P982 C - Cut 'em all!](https://codeforces.com/contest/982/problem/C)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Graph/P982C_Cut'emAll.cpp)|
 |13|[P190 C - STL](https://codeforces.com/contest/190/problem/C)|[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Graph/P190C_STL.cpp)|14|[]()|[]()|
 ***
+
+## <p align="center"> Dynamic Programming `12 Problems` </p>
+<p align="center"> 02 Out of 12 Completed 🏗️</p>
+
+| **Num** |                                **Problem**                                 |                                                             **Solution**                                                             |**Num**|                            **Problem**                             |**Solution**|
+|:-------:|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----:|:------------------------------------------------------------------:|:----:|
+|   01    | [P871 A - Maximum Splitting](https://codeforces.com/contest/871/problem/A) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P871A_MaximumSpltting.cpp) |02| [P698 A - Vacations](https://codeforces.com/contest/217/problem/A) |[My Solution](https://codeforces.com/contest/698/problem/A) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P698A_Vacations.cpp)|
+***
