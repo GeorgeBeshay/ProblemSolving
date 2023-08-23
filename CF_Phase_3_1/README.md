@@ -28,3 +28,11 @@
 |:-------:|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----:|:------------------------------------------------------------------:|:----:|
 |   01    | [P871 A - Maximum Splitting](https://codeforces.com/contest/871/problem/A) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P871A_MaximumSplitting.cpp) |02| [P698 A - Vacations](https://codeforces.com/contest/698/problem/A) |[My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P698A_Vacations.cpp)|
 ***
+
+## <p align="center"> Divide and Conquer `12 Problems` </p>
+<p align="center"> 01 Out of 12 Completed 🏗️</p>
+
+| **Num** |     **Problem**      |                                                         **Solution**                                                          |**Num**|                   **Problem**                    |  **Solution**   |
+|:-------:|:--------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----:|:------------------------------------------------:|:---------------:|
+|   01    | [P978 C - Letters](https://codeforces.com/contest/978/problem/C) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Divide%20and%20Conquer/P978C_Letters.cpp) |02| []() | []() |
+***
