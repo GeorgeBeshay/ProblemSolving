@@ -30,9 +30,10 @@
 ***
 
 ## <p align="center"> Divide and Conquer `12 Problems` </p>
-<p align="center"> 02 Out of 12 Completed 🏗️</p>
+<p align="center"> 03 Out of 12 Completed 🏗️</p>
 
-| **Num** |     **Problem**      |                                                         **Solution**                                                          |**Num**|       **Problem**       |                                                           **Solution**                                                           |
-|:-------:|:--------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----:|:-----------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
-|   01    | [P978 C - Letters](https://codeforces.com/contest/978/problem/C) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Divide%20and%20Conquer/P978C_Letters.cpp) |02| [P732 C - Sanatorium](https://codeforces.com/contest/732/problem/C) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Divide%20and%20Conquer/P732C_Sanatorium.cpp) |
+| **Num** |                                     **Problem**                                     |                                                                **Solution**                                                                 | **Num** |       **Problem**       |                                                           **Solution**                                                           |
+|:-------:|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:-----------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+|   01    |          [P978 C - Letters](https://codeforces.com/contest/978/problem/C)           |        [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Divide%20and%20Conquer/P978C_Letters.cpp)        |   02    | [P732 C - Sanatorium](https://codeforces.com/contest/732/problem/C) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Divide%20and%20Conquer/P732C_Sanatorium.cpp) |
+|   03    | [P1006 C - Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Divide%20and%20Conquer/P1006C_ThreePartsOfTheArray.cpp) |   04    |[]()|[]()|
 ***
