@@ -4,7 +4,7 @@
 
 /*
  * Problem Link:            https://codeforces.com/contest/238/problem/A
- * Problem Status:
+ * Problem Status:          Accepted.
  */
 
 #include <bits/stdc++.h>
