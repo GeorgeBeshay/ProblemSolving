@@ -22,12 +22,13 @@
 ***
 
 ## <p align="center"> Dynamic Programming `12 Problems` </p>
-<p align="center"> 03 Out of 12 Completed 🏗️</p>
+<p align="center"> 05 Out of 12 Completed 🏗️</p>
 
 | **Num** |                                **Problem**                                 |                                                             **Solution**                                                              | **Num** |                                  **Problem**                                  |                                                              **Solution**                                                               |
 |:-------:|:--------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |   01    | [P871 A - Maximum Splitting](https://codeforces.com/contest/871/problem/A) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P871A_MaximumSplitting.cpp) |   02    |      [P698 A - Vacations](https://codeforces.com/contest/698/problem/A)       |     [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P698A_Vacations.cpp)      |
-|    02    |                        [P987 C - Three Displays](https://codeforces.com/contest/987/problem/C)                         |  [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P987C_ThreeDisplays.cpp)   |   04    | [P516 A - Drazil and Factorial](https://codeforces.com/contest/516/problem/A) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P516A_DrazilAndFactorial.cpp) |
+|   02    |  [P987 C - Three Displays](https://codeforces.com/contest/987/problem/C)   |  [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P987C_ThreeDisplays.cpp)   |   04    | [P516 A - Drazil and Factorial](https://codeforces.com/contest/516/problem/A) | [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P516A_DrazilAndFactorial.cpp) |
+|   05    |   [P545 C - Woodcutters](https://codeforces.com/contest/545/problem/C)     |   [My Solution](https://github.com/GeorgeBeshay/ProblemSolving/blob/main/CF_Phase_3_1/Dynamic%20Programming/P545C_Woodcutters.cpp)    |   06    |||
 ***
 
 ## <p align="center"> Divide and Conquer `12 Problems` </p>
